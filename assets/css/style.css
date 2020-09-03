@@ -1,0 +1,65 @@
+.custom-nav-link{
+    color: #343A40;
+    margin-right: 5px;
+    border: 1px solid #dee2e6;
+}
+
+@keyframes spinner {
+    to {transform: rotate(360deg);}
+}
+
+.spinner:before {
+    content: '';
+    box-sizing: border-box;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 50px;
+    height: 50px;
+    margin-top: -50px;
+    margin-left: -50px;
+    border-radius: 50%;
+    border: 2px solid #ccc;
+    border-top-color: #0277bd;
+    animation: spinner .6s linear infinite;
+}
+
+.input-danger{
+    border: solid 1px #E11D3B;
+}
+
+.save-btn{
+    border-color: #0277bd;
+    background: transparent;
+    color: #0277bd;
+    font-size: 15px;
+    font-weight: 500;
+    padding: 5px 5px;
+    width: 150px;
+    -moz-transition: 0.4s;
+    -webkit-transition: 0.4s;
+    -o-transition: 0.4s;
+    -ms-transition: 0.4s;
+    display: inline-block;
+    text-transform: uppercase;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.save-btn:hover{
+    background: #0277bd;
+    border: 1px solid #0277bd;
+    color: #fff;
+}
+
+.page-item.active .page-link {
+    color: #fff !important;
+    background-color: #0277bd !important;
+    border-color: #0277bd !important;
+}
+
+.form-style{
+    background-color: rgba(32, 46, 69, 0.4);
+    border: 1px solid #4b5263;
+    padding: 50px;
+}
