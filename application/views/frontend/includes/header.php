@@ -69,6 +69,9 @@
 										<li>
 											<a href="<?php echo base_url('BuySell/contactus'); ?>">Contact Us</a>
 										</li>
+										<li>
+											<a href="<?php echo base_url('BuySell/login_signup'); ?>">Login/SignUp</a>
+										</li>
 									</ul>
 								</div>
 							</nav>

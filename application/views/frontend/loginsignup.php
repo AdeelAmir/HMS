@@ -96,7 +96,7 @@
 							<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
 								<div class="tg-videobox">
 									<figure>
-										<img src="images/placeholder-02.jpg" alt="image description">
+										<img src="<?php echo assets_url('assets_2/images/placeholder-02.jpg'); ?>" alt="image description">
 										<a class="tg-btnplayvideo" href="javascript:void(0);"><i class="icon-play3"></i></a>
 									</figure>
 								</div>
@@ -194,7 +194,7 @@
 						<div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
 							<div class="tg-widget tg-widgettext">
 								<div class="tg-widgetcontent">
-									<strong class="tg-logo"><a href="javascript:void(0);"><img src="images/logof.png" alt="image description"></a></strong>
+									<strong class="tg-logo"><a href="javascript:void(0);"><img src="<?php echo assets_url('assets_2/images/logof.png'); ?>" alt="image description"></a></strong>
 									<div class="tg-description">
 										<p>Ads your product and sell online</p>
 									</div>
@@ -263,7 +263,7 @@
 							</div>
 						</div>
 						<div class="form-group">
-							<span class="tg-iconseprator"><i><img src="images/icons/img-36.png" alt="image description"></i></span>
+							<span class="tg-iconseprator"><i><img src="<?php echo assets_url('assets_2/images/icons/img-36.png'); ?>" alt="image description"></i></span>
 						</div>
 						<div class="form-group">
 							<div id="tg-flagstrapthree" class="tg-flagstrap" data-input-name="country"></div>

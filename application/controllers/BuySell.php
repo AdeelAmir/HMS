@@ -28,6 +28,9 @@ class BuySell extends Base_Controller
     {
         $this->load->view('frontend/contactus');
     }
+    public function login_signup(){
+        $this->load->view('frontend/loginsignup');
+    }
 }
 
 ?>
