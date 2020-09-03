@@ -13466,3 +13466,1090 @@ INFO - 2020-09-03 14:29:47 --> Model "User_model" initialized
 INFO - 2020-09-03 14:29:47 --> File loaded: C:\xampp\htdocs\HMS\application\views\index.php
 INFO - 2020-09-03 14:29:47 --> Final output sent to browser
 DEBUG - 2020-09-03 14:29:47 --> Total execution time: 0.6630
+INFO - 2020-09-03 14:51:19 --> Config Class Initialized
+INFO - 2020-09-03 14:51:19 --> Hooks Class Initialized
+DEBUG - 2020-09-03 14:51:19 --> UTF-8 Support Enabled
+INFO - 2020-09-03 14:51:19 --> Utf8 Class Initialized
+INFO - 2020-09-03 14:51:19 --> URI Class Initialized
+DEBUG - 2020-09-03 14:51:19 --> No URI present. Default controller set.
+INFO - 2020-09-03 14:51:19 --> Router Class Initialized
+INFO - 2020-09-03 14:51:19 --> Output Class Initialized
+INFO - 2020-09-03 14:51:19 --> Security Class Initialized
+DEBUG - 2020-09-03 14:51:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 14:51:19 --> CSRF cookie sent
+INFO - 2020-09-03 14:51:19 --> Input Class Initialized
+INFO - 2020-09-03 14:51:19 --> Language Class Initialized
+INFO - 2020-09-03 14:51:20 --> Loader Class Initialized
+INFO - 2020-09-03 14:51:20 --> Helper loaded: url_helper
+INFO - 2020-09-03 14:51:20 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 14:51:20 --> Helper loaded: form_helper
+INFO - 2020-09-03 14:51:20 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 14:51:20 --> Database Driver Class Initialized
+INFO - 2020-09-03 14:51:20 --> Controller Class Initialized
+INFO - 2020-09-03 14:51:20 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 14:51:20 --> Helper loaded: cookie_helper
+INFO - 2020-09-03 14:51:20 --> File loaded: C:\xampp\htdocs\HMS\application\views\frontend/index.php
+INFO - 2020-09-03 14:51:20 --> Final output sent to browser
+DEBUG - 2020-09-03 14:51:20 --> Total execution time: 0.6313
+INFO - 2020-09-03 14:51:24 --> Config Class Initialized
+INFO - 2020-09-03 14:51:24 --> Hooks Class Initialized
+DEBUG - 2020-09-03 14:51:24 --> UTF-8 Support Enabled
+INFO - 2020-09-03 14:51:24 --> Utf8 Class Initialized
+INFO - 2020-09-03 14:51:24 --> URI Class Initialized
+INFO - 2020-09-03 14:51:24 --> Router Class Initialized
+INFO - 2020-09-03 14:51:24 --> Output Class Initialized
+INFO - 2020-09-03 14:51:24 --> Security Class Initialized
+DEBUG - 2020-09-03 14:51:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 14:51:24 --> CSRF cookie sent
+INFO - 2020-09-03 14:51:24 --> Input Class Initialized
+INFO - 2020-09-03 14:51:24 --> Language Class Initialized
+INFO - 2020-09-03 14:51:24 --> Loader Class Initialized
+INFO - 2020-09-03 14:51:24 --> Helper loaded: url_helper
+INFO - 2020-09-03 14:51:24 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 14:51:24 --> Helper loaded: form_helper
+INFO - 2020-09-03 14:51:24 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 14:51:24 --> Database Driver Class Initialized
+INFO - 2020-09-03 14:51:24 --> Controller Class Initialized
+INFO - 2020-09-03 14:51:24 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 14:51:25 --> Helper loaded: cookie_helper
+INFO - 2020-09-03 14:51:25 --> File loaded: C:\xampp\htdocs\HMS\application\views\frontend/loginsignup.php
+INFO - 2020-09-03 14:51:25 --> Final output sent to browser
+DEBUG - 2020-09-03 14:51:25 --> Total execution time: 0.5817
+INFO - 2020-09-03 14:52:49 --> Config Class Initialized
+INFO - 2020-09-03 14:52:49 --> Hooks Class Initialized
+DEBUG - 2020-09-03 14:52:49 --> UTF-8 Support Enabled
+INFO - 2020-09-03 14:52:49 --> Utf8 Class Initialized
+INFO - 2020-09-03 14:52:50 --> URI Class Initialized
+INFO - 2020-09-03 14:52:50 --> Router Class Initialized
+INFO - 2020-09-03 14:52:50 --> Output Class Initialized
+INFO - 2020-09-03 14:52:50 --> Security Class Initialized
+DEBUG - 2020-09-03 14:52:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 14:52:50 --> CSRF cookie sent
+INFO - 2020-09-03 14:52:50 --> CSRF token verified
+INFO - 2020-09-03 14:52:50 --> Input Class Initialized
+INFO - 2020-09-03 14:52:50 --> Language Class Initialized
+INFO - 2020-09-03 14:52:50 --> Loader Class Initialized
+INFO - 2020-09-03 14:52:50 --> Helper loaded: url_helper
+INFO - 2020-09-03 14:52:50 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 14:52:50 --> Helper loaded: form_helper
+INFO - 2020-09-03 14:52:50 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 14:52:50 --> Database Driver Class Initialized
+INFO - 2020-09-03 14:52:50 --> Controller Class Initialized
+INFO - 2020-09-03 14:52:50 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 14:52:50 --> Helper loaded: cookie_helper
+DEBUG - 2020-09-03 14:52:50 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 14:52:50 --> Model "Users_model" initialized
+INFO - 2020-09-03 14:52:50 --> Final output sent to browser
+DEBUG - 2020-09-03 14:52:50 --> Total execution time: 0.7136
+INFO - 2020-09-03 14:52:52 --> Config Class Initialized
+INFO - 2020-09-03 14:52:52 --> Hooks Class Initialized
+DEBUG - 2020-09-03 14:52:52 --> UTF-8 Support Enabled
+INFO - 2020-09-03 14:52:52 --> Utf8 Class Initialized
+INFO - 2020-09-03 14:52:52 --> URI Class Initialized
+INFO - 2020-09-03 14:52:52 --> Router Class Initialized
+INFO - 2020-09-03 14:52:53 --> Output Class Initialized
+INFO - 2020-09-03 14:52:53 --> Security Class Initialized
+DEBUG - 2020-09-03 14:52:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 14:52:53 --> CSRF cookie sent
+INFO - 2020-09-03 14:52:53 --> Input Class Initialized
+INFO - 2020-09-03 14:52:53 --> Language Class Initialized
+INFO - 2020-09-03 14:52:53 --> Loader Class Initialized
+INFO - 2020-09-03 14:52:53 --> Helper loaded: url_helper
+INFO - 2020-09-03 14:52:53 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 14:52:53 --> Helper loaded: form_helper
+INFO - 2020-09-03 14:52:53 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 14:52:53 --> Database Driver Class Initialized
+INFO - 2020-09-03 14:52:53 --> Controller Class Initialized
+INFO - 2020-09-03 14:52:53 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 14:52:53 --> Helper loaded: cookie_helper
+INFO - 2020-09-03 14:52:53 --> File loaded: C:\xampp\htdocs\HMS\application\views\frontend/loginsignup.php
+INFO - 2020-09-03 14:52:53 --> Final output sent to browser
+DEBUG - 2020-09-03 14:52:53 --> Total execution time: 0.8600
+INFO - 2020-09-03 14:53:11 --> Config Class Initialized
+INFO - 2020-09-03 14:53:11 --> Hooks Class Initialized
+DEBUG - 2020-09-03 14:53:11 --> UTF-8 Support Enabled
+INFO - 2020-09-03 14:53:11 --> Utf8 Class Initialized
+INFO - 2020-09-03 14:53:11 --> URI Class Initialized
+INFO - 2020-09-03 14:53:11 --> Router Class Initialized
+INFO - 2020-09-03 14:53:11 --> Output Class Initialized
+INFO - 2020-09-03 14:53:11 --> Security Class Initialized
+DEBUG - 2020-09-03 14:53:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 14:53:11 --> CSRF cookie sent
+INFO - 2020-09-03 14:53:11 --> CSRF token verified
+INFO - 2020-09-03 14:53:11 --> Input Class Initialized
+INFO - 2020-09-03 14:53:11 --> Language Class Initialized
+INFO - 2020-09-03 14:53:11 --> Loader Class Initialized
+INFO - 2020-09-03 14:53:11 --> Helper loaded: url_helper
+INFO - 2020-09-03 14:53:11 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 14:53:11 --> Helper loaded: form_helper
+INFO - 2020-09-03 14:53:11 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 14:53:11 --> Database Driver Class Initialized
+INFO - 2020-09-03 14:53:11 --> Controller Class Initialized
+INFO - 2020-09-03 14:53:11 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 14:53:11 --> Helper loaded: cookie_helper
+DEBUG - 2020-09-03 14:53:11 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 14:53:11 --> Model "User_model" initialized
+INFO - 2020-09-03 14:53:11 --> Config Class Initialized
+INFO - 2020-09-03 14:53:11 --> Hooks Class Initialized
+DEBUG - 2020-09-03 14:53:11 --> UTF-8 Support Enabled
+INFO - 2020-09-03 14:53:11 --> Utf8 Class Initialized
+INFO - 2020-09-03 14:53:11 --> URI Class Initialized
+DEBUG - 2020-09-03 14:53:11 --> No URI present. Default controller set.
+INFO - 2020-09-03 14:53:12 --> Router Class Initialized
+INFO - 2020-09-03 14:53:12 --> Output Class Initialized
+INFO - 2020-09-03 14:53:12 --> Security Class Initialized
+DEBUG - 2020-09-03 14:53:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 14:53:12 --> CSRF cookie sent
+INFO - 2020-09-03 14:53:12 --> Input Class Initialized
+INFO - 2020-09-03 14:53:12 --> Language Class Initialized
+INFO - 2020-09-03 14:53:12 --> Loader Class Initialized
+INFO - 2020-09-03 14:53:12 --> Helper loaded: url_helper
+INFO - 2020-09-03 14:53:12 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 14:53:12 --> Helper loaded: form_helper
+INFO - 2020-09-03 14:53:12 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 14:53:12 --> Database Driver Class Initialized
+INFO - 2020-09-03 14:53:12 --> Controller Class Initialized
+INFO - 2020-09-03 14:53:12 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 14:53:12 --> Helper loaded: cookie_helper
+INFO - 2020-09-03 14:53:12 --> File loaded: C:\xampp\htdocs\HMS\application\views\frontend/index.php
+INFO - 2020-09-03 14:53:12 --> Final output sent to browser
+DEBUG - 2020-09-03 14:53:12 --> Total execution time: 0.6475
+INFO - 2020-09-03 14:55:42 --> Config Class Initialized
+INFO - 2020-09-03 14:55:42 --> Hooks Class Initialized
+DEBUG - 2020-09-03 14:55:42 --> UTF-8 Support Enabled
+INFO - 2020-09-03 14:55:42 --> Utf8 Class Initialized
+INFO - 2020-09-03 14:55:42 --> URI Class Initialized
+INFO - 2020-09-03 14:55:42 --> Router Class Initialized
+INFO - 2020-09-03 14:55:42 --> Output Class Initialized
+INFO - 2020-09-03 14:55:42 --> Security Class Initialized
+DEBUG - 2020-09-03 14:55:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 14:55:42 --> CSRF cookie sent
+INFO - 2020-09-03 14:55:42 --> Input Class Initialized
+INFO - 2020-09-03 14:55:42 --> Language Class Initialized
+INFO - 2020-09-03 14:55:42 --> Loader Class Initialized
+INFO - 2020-09-03 14:55:42 --> Helper loaded: url_helper
+INFO - 2020-09-03 14:55:42 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 14:55:43 --> Helper loaded: form_helper
+INFO - 2020-09-03 14:55:43 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 14:55:43 --> Database Driver Class Initialized
+INFO - 2020-09-03 14:55:43 --> Controller Class Initialized
+INFO - 2020-09-03 14:55:43 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 14:55:43 --> Helper loaded: cookie_helper
+INFO - 2020-09-03 14:55:43 --> File loaded: C:\xampp\htdocs\HMS\application\views\index.php
+INFO - 2020-09-03 14:55:43 --> Final output sent to browser
+DEBUG - 2020-09-03 14:55:43 --> Total execution time: 0.5871
+INFO - 2020-09-03 15:03:33 --> Config Class Initialized
+INFO - 2020-09-03 15:03:33 --> Hooks Class Initialized
+DEBUG - 2020-09-03 15:03:33 --> UTF-8 Support Enabled
+INFO - 2020-09-03 15:03:33 --> Utf8 Class Initialized
+INFO - 2020-09-03 15:03:33 --> URI Class Initialized
+INFO - 2020-09-03 15:03:33 --> Router Class Initialized
+INFO - 2020-09-03 15:03:33 --> Output Class Initialized
+INFO - 2020-09-03 15:03:33 --> Security Class Initialized
+DEBUG - 2020-09-03 15:03:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 15:03:33 --> CSRF cookie sent
+INFO - 2020-09-03 15:03:33 --> Input Class Initialized
+INFO - 2020-09-03 15:03:34 --> Language Class Initialized
+INFO - 2020-09-03 15:03:34 --> Loader Class Initialized
+INFO - 2020-09-03 15:03:34 --> Helper loaded: url_helper
+INFO - 2020-09-03 15:03:34 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 15:03:34 --> Helper loaded: form_helper
+INFO - 2020-09-03 15:03:34 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 15:03:34 --> Database Driver Class Initialized
+INFO - 2020-09-03 15:03:34 --> Controller Class Initialized
+INFO - 2020-09-03 15:03:34 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 15:03:34 --> Helper loaded: cookie_helper
+INFO - 2020-09-03 15:03:34 --> File loaded: C:\xampp\htdocs\HMS\application\views\index.php
+INFO - 2020-09-03 15:03:34 --> Final output sent to browser
+DEBUG - 2020-09-03 15:03:34 --> Total execution time: 0.5893
+INFO - 2020-09-03 15:03:38 --> Config Class Initialized
+INFO - 2020-09-03 15:03:38 --> Hooks Class Initialized
+DEBUG - 2020-09-03 15:03:38 --> UTF-8 Support Enabled
+INFO - 2020-09-03 15:03:38 --> Utf8 Class Initialized
+INFO - 2020-09-03 15:03:38 --> URI Class Initialized
+DEBUG - 2020-09-03 15:03:38 --> No URI present. Default controller set.
+INFO - 2020-09-03 15:03:38 --> Router Class Initialized
+INFO - 2020-09-03 15:03:38 --> Output Class Initialized
+INFO - 2020-09-03 15:03:38 --> Security Class Initialized
+DEBUG - 2020-09-03 15:03:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 15:03:38 --> CSRF cookie sent
+INFO - 2020-09-03 15:03:38 --> Input Class Initialized
+INFO - 2020-09-03 15:03:39 --> Language Class Initialized
+INFO - 2020-09-03 15:03:39 --> Loader Class Initialized
+INFO - 2020-09-03 15:03:39 --> Helper loaded: url_helper
+INFO - 2020-09-03 15:03:39 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 15:03:39 --> Helper loaded: form_helper
+INFO - 2020-09-03 15:03:39 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 15:03:39 --> Database Driver Class Initialized
+INFO - 2020-09-03 15:03:39 --> Controller Class Initialized
+INFO - 2020-09-03 15:03:39 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 15:03:39 --> Helper loaded: cookie_helper
+INFO - 2020-09-03 15:03:39 --> File loaded: C:\xampp\htdocs\HMS\application\views\frontend/index.php
+INFO - 2020-09-03 15:03:39 --> Final output sent to browser
+DEBUG - 2020-09-03 15:03:39 --> Total execution time: 1.1407
+INFO - 2020-09-03 15:03:42 --> Config Class Initialized
+INFO - 2020-09-03 15:03:42 --> Hooks Class Initialized
+DEBUG - 2020-09-03 15:03:42 --> UTF-8 Support Enabled
+INFO - 2020-09-03 15:03:42 --> Utf8 Class Initialized
+INFO - 2020-09-03 15:03:42 --> URI Class Initialized
+INFO - 2020-09-03 15:03:42 --> Router Class Initialized
+INFO - 2020-09-03 15:03:42 --> Output Class Initialized
+INFO - 2020-09-03 15:03:42 --> Security Class Initialized
+DEBUG - 2020-09-03 15:03:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 15:03:42 --> CSRF cookie sent
+INFO - 2020-09-03 15:03:42 --> Input Class Initialized
+INFO - 2020-09-03 15:03:42 --> Language Class Initialized
+INFO - 2020-09-03 15:03:42 --> Loader Class Initialized
+INFO - 2020-09-03 15:03:42 --> Helper loaded: url_helper
+INFO - 2020-09-03 15:03:42 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 15:03:42 --> Helper loaded: form_helper
+INFO - 2020-09-03 15:03:42 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 15:03:43 --> Database Driver Class Initialized
+INFO - 2020-09-03 15:03:43 --> Controller Class Initialized
+INFO - 2020-09-03 15:03:43 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 15:03:43 --> Helper loaded: cookie_helper
+DEBUG - 2020-09-03 15:03:43 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:03:43 --> Model "Category_model" initialized
+DEBUG - 2020-09-03 15:03:43 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:03:43 --> Model "City_model" initialized
+DEBUG - 2020-09-03 15:03:43 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:03:43 --> Model "Ads_model" initialized
+INFO - 2020-09-03 15:03:43 --> File loaded: C:\xampp\htdocs\HMS\application\views\frontend/dashboard-postanad.php
+INFO - 2020-09-03 15:03:43 --> Final output sent to browser
+DEBUG - 2020-09-03 15:03:43 --> Total execution time: 0.9884
+INFO - 2020-09-03 15:03:50 --> Config Class Initialized
+INFO - 2020-09-03 15:03:51 --> Hooks Class Initialized
+DEBUG - 2020-09-03 15:03:51 --> UTF-8 Support Enabled
+INFO - 2020-09-03 15:03:51 --> Utf8 Class Initialized
+INFO - 2020-09-03 15:03:51 --> URI Class Initialized
+DEBUG - 2020-09-03 15:03:51 --> No URI present. Default controller set.
+INFO - 2020-09-03 15:03:51 --> Router Class Initialized
+INFO - 2020-09-03 15:03:51 --> Output Class Initialized
+INFO - 2020-09-03 15:03:51 --> Security Class Initialized
+DEBUG - 2020-09-03 15:03:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 15:03:51 --> CSRF cookie sent
+INFO - 2020-09-03 15:03:51 --> Input Class Initialized
+INFO - 2020-09-03 15:03:51 --> Language Class Initialized
+INFO - 2020-09-03 15:03:51 --> Loader Class Initialized
+INFO - 2020-09-03 15:03:51 --> Helper loaded: url_helper
+INFO - 2020-09-03 15:03:51 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 15:03:51 --> Helper loaded: form_helper
+INFO - 2020-09-03 15:03:51 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 15:03:51 --> Database Driver Class Initialized
+INFO - 2020-09-03 15:03:51 --> Controller Class Initialized
+INFO - 2020-09-03 15:03:51 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 15:03:51 --> Helper loaded: cookie_helper
+INFO - 2020-09-03 15:03:51 --> File loaded: C:\xampp\htdocs\HMS\application\views\frontend/index.php
+INFO - 2020-09-03 15:03:51 --> Final output sent to browser
+DEBUG - 2020-09-03 15:03:51 --> Total execution time: 0.7736
+INFO - 2020-09-03 15:03:53 --> Config Class Initialized
+INFO - 2020-09-03 15:03:53 --> Hooks Class Initialized
+DEBUG - 2020-09-03 15:03:54 --> UTF-8 Support Enabled
+INFO - 2020-09-03 15:03:54 --> Utf8 Class Initialized
+INFO - 2020-09-03 15:03:54 --> URI Class Initialized
+INFO - 2020-09-03 15:03:54 --> Router Class Initialized
+INFO - 2020-09-03 15:03:54 --> Output Class Initialized
+INFO - 2020-09-03 15:03:54 --> Security Class Initialized
+DEBUG - 2020-09-03 15:03:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 15:03:54 --> CSRF cookie sent
+INFO - 2020-09-03 15:03:54 --> Input Class Initialized
+INFO - 2020-09-03 15:03:54 --> Language Class Initialized
+INFO - 2020-09-03 15:03:54 --> Loader Class Initialized
+INFO - 2020-09-03 15:03:54 --> Helper loaded: url_helper
+INFO - 2020-09-03 15:03:54 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 15:03:54 --> Helper loaded: form_helper
+INFO - 2020-09-03 15:03:54 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 15:03:54 --> Database Driver Class Initialized
+INFO - 2020-09-03 15:03:54 --> Controller Class Initialized
+INFO - 2020-09-03 15:03:54 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 15:03:54 --> Helper loaded: cookie_helper
+DEBUG - 2020-09-03 15:03:54 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:03:54 --> Model "User_model" initialized
+INFO - 2020-09-03 15:03:55 --> Config Class Initialized
+INFO - 2020-09-03 15:03:55 --> Hooks Class Initialized
+DEBUG - 2020-09-03 15:03:55 --> UTF-8 Support Enabled
+INFO - 2020-09-03 15:03:55 --> Utf8 Class Initialized
+INFO - 2020-09-03 15:03:55 --> URI Class Initialized
+DEBUG - 2020-09-03 15:03:55 --> No URI present. Default controller set.
+INFO - 2020-09-03 15:03:55 --> Router Class Initialized
+INFO - 2020-09-03 15:03:55 --> Output Class Initialized
+INFO - 2020-09-03 15:03:55 --> Security Class Initialized
+DEBUG - 2020-09-03 15:03:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 15:03:55 --> CSRF cookie sent
+INFO - 2020-09-03 15:03:55 --> Input Class Initialized
+INFO - 2020-09-03 15:03:55 --> Language Class Initialized
+INFO - 2020-09-03 15:03:55 --> Loader Class Initialized
+INFO - 2020-09-03 15:03:55 --> Helper loaded: url_helper
+INFO - 2020-09-03 15:03:55 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 15:03:55 --> Helper loaded: form_helper
+INFO - 2020-09-03 15:03:55 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 15:03:55 --> Database Driver Class Initialized
+INFO - 2020-09-03 15:03:55 --> Controller Class Initialized
+INFO - 2020-09-03 15:03:55 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 15:03:55 --> Helper loaded: cookie_helper
+INFO - 2020-09-03 15:03:55 --> File loaded: C:\xampp\htdocs\HMS\application\views\frontend/index.php
+INFO - 2020-09-03 15:03:55 --> Final output sent to browser
+DEBUG - 2020-09-03 15:03:55 --> Total execution time: 0.8048
+INFO - 2020-09-03 15:03:57 --> Config Class Initialized
+INFO - 2020-09-03 15:03:57 --> Hooks Class Initialized
+DEBUG - 2020-09-03 15:03:57 --> UTF-8 Support Enabled
+INFO - 2020-09-03 15:03:57 --> Utf8 Class Initialized
+INFO - 2020-09-03 15:03:57 --> URI Class Initialized
+INFO - 2020-09-03 15:03:57 --> Router Class Initialized
+INFO - 2020-09-03 15:03:57 --> Output Class Initialized
+INFO - 2020-09-03 15:03:58 --> Security Class Initialized
+DEBUG - 2020-09-03 15:03:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 15:03:58 --> CSRF cookie sent
+INFO - 2020-09-03 15:03:58 --> Input Class Initialized
+INFO - 2020-09-03 15:03:58 --> Language Class Initialized
+INFO - 2020-09-03 15:03:58 --> Loader Class Initialized
+INFO - 2020-09-03 15:03:58 --> Helper loaded: url_helper
+INFO - 2020-09-03 15:03:58 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 15:03:58 --> Helper loaded: form_helper
+INFO - 2020-09-03 15:03:58 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 15:03:58 --> Database Driver Class Initialized
+INFO - 2020-09-03 15:03:58 --> Controller Class Initialized
+INFO - 2020-09-03 15:03:58 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 15:03:58 --> Helper loaded: cookie_helper
+DEBUG - 2020-09-03 15:03:58 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:03:58 --> Model "Category_model" initialized
+DEBUG - 2020-09-03 15:03:58 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:03:58 --> Model "City_model" initialized
+DEBUG - 2020-09-03 15:03:58 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:03:58 --> Model "Ads_model" initialized
+INFO - 2020-09-03 15:03:58 --> Config Class Initialized
+INFO - 2020-09-03 15:03:58 --> Hooks Class Initialized
+DEBUG - 2020-09-03 15:03:58 --> UTF-8 Support Enabled
+INFO - 2020-09-03 15:03:59 --> Utf8 Class Initialized
+INFO - 2020-09-03 15:03:59 --> URI Class Initialized
+INFO - 2020-09-03 15:03:59 --> Router Class Initialized
+INFO - 2020-09-03 15:03:59 --> Output Class Initialized
+INFO - 2020-09-03 15:03:59 --> Security Class Initialized
+DEBUG - 2020-09-03 15:03:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 15:03:59 --> CSRF cookie sent
+INFO - 2020-09-03 15:03:59 --> Input Class Initialized
+INFO - 2020-09-03 15:03:59 --> Language Class Initialized
+INFO - 2020-09-03 15:03:59 --> Loader Class Initialized
+INFO - 2020-09-03 15:03:59 --> Helper loaded: url_helper
+INFO - 2020-09-03 15:03:59 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 15:03:59 --> Helper loaded: form_helper
+INFO - 2020-09-03 15:03:59 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 15:03:59 --> Database Driver Class Initialized
+INFO - 2020-09-03 15:03:59 --> Controller Class Initialized
+INFO - 2020-09-03 15:03:59 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 15:03:59 --> Helper loaded: cookie_helper
+INFO - 2020-09-03 15:03:59 --> File loaded: C:\xampp\htdocs\HMS\application\views\frontend/loginsignup.php
+INFO - 2020-09-03 15:03:59 --> Final output sent to browser
+DEBUG - 2020-09-03 15:03:59 --> Total execution time: 0.7831
+INFO - 2020-09-03 15:04:06 --> Config Class Initialized
+INFO - 2020-09-03 15:04:06 --> Hooks Class Initialized
+DEBUG - 2020-09-03 15:04:06 --> UTF-8 Support Enabled
+INFO - 2020-09-03 15:04:06 --> Utf8 Class Initialized
+INFO - 2020-09-03 15:04:06 --> URI Class Initialized
+INFO - 2020-09-03 15:04:06 --> Router Class Initialized
+INFO - 2020-09-03 15:04:06 --> Output Class Initialized
+INFO - 2020-09-03 15:04:06 --> Security Class Initialized
+DEBUG - 2020-09-03 15:04:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 15:04:06 --> CSRF cookie sent
+INFO - 2020-09-03 15:04:06 --> Input Class Initialized
+INFO - 2020-09-03 15:04:06 --> Language Class Initialized
+INFO - 2020-09-03 15:04:06 --> Loader Class Initialized
+INFO - 2020-09-03 15:04:06 --> Helper loaded: url_helper
+INFO - 2020-09-03 15:04:06 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 15:04:06 --> Helper loaded: form_helper
+INFO - 2020-09-03 15:04:06 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 15:04:06 --> Database Driver Class Initialized
+INFO - 2020-09-03 15:04:06 --> Controller Class Initialized
+INFO - 2020-09-03 15:04:06 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 15:04:06 --> Helper loaded: cookie_helper
+INFO - 2020-09-03 15:04:06 --> File loaded: C:\xampp\htdocs\HMS\application\views\frontend/loginsignup.php
+INFO - 2020-09-03 15:04:06 --> Final output sent to browser
+DEBUG - 2020-09-03 15:04:06 --> Total execution time: 0.6528
+INFO - 2020-09-03 15:04:16 --> Config Class Initialized
+INFO - 2020-09-03 15:04:16 --> Hooks Class Initialized
+DEBUG - 2020-09-03 15:04:17 --> UTF-8 Support Enabled
+INFO - 2020-09-03 15:04:17 --> Utf8 Class Initialized
+INFO - 2020-09-03 15:04:17 --> URI Class Initialized
+INFO - 2020-09-03 15:04:17 --> Router Class Initialized
+INFO - 2020-09-03 15:04:17 --> Output Class Initialized
+INFO - 2020-09-03 15:04:17 --> Security Class Initialized
+DEBUG - 2020-09-03 15:04:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 15:04:17 --> CSRF cookie sent
+INFO - 2020-09-03 15:04:17 --> CSRF token verified
+INFO - 2020-09-03 15:04:17 --> Input Class Initialized
+INFO - 2020-09-03 15:04:17 --> Language Class Initialized
+INFO - 2020-09-03 15:04:17 --> Loader Class Initialized
+INFO - 2020-09-03 15:04:17 --> Helper loaded: url_helper
+INFO - 2020-09-03 15:04:17 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 15:04:17 --> Helper loaded: form_helper
+INFO - 2020-09-03 15:04:17 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 15:04:17 --> Database Driver Class Initialized
+INFO - 2020-09-03 15:04:17 --> Controller Class Initialized
+INFO - 2020-09-03 15:04:17 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 15:04:17 --> Helper loaded: cookie_helper
+DEBUG - 2020-09-03 15:04:17 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:04:17 --> Model "User_model" initialized
+INFO - 2020-09-03 15:04:17 --> Config Class Initialized
+INFO - 2020-09-03 15:04:17 --> Hooks Class Initialized
+DEBUG - 2020-09-03 15:04:17 --> UTF-8 Support Enabled
+INFO - 2020-09-03 15:04:17 --> Utf8 Class Initialized
+INFO - 2020-09-03 15:04:17 --> URI Class Initialized
+DEBUG - 2020-09-03 15:04:17 --> No URI present. Default controller set.
+INFO - 2020-09-03 15:04:17 --> Router Class Initialized
+INFO - 2020-09-03 15:04:17 --> Output Class Initialized
+INFO - 2020-09-03 15:04:17 --> Security Class Initialized
+DEBUG - 2020-09-03 15:04:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 15:04:17 --> CSRF cookie sent
+INFO - 2020-09-03 15:04:17 --> Input Class Initialized
+INFO - 2020-09-03 15:04:17 --> Language Class Initialized
+INFO - 2020-09-03 15:04:17 --> Loader Class Initialized
+INFO - 2020-09-03 15:04:17 --> Helper loaded: url_helper
+INFO - 2020-09-03 15:04:18 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 15:04:18 --> Helper loaded: form_helper
+INFO - 2020-09-03 15:04:18 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 15:04:18 --> Database Driver Class Initialized
+INFO - 2020-09-03 15:04:18 --> Controller Class Initialized
+INFO - 2020-09-03 15:04:18 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 15:04:18 --> Helper loaded: cookie_helper
+INFO - 2020-09-03 15:04:18 --> File loaded: C:\xampp\htdocs\HMS\application\views\frontend/index.php
+INFO - 2020-09-03 15:04:18 --> Final output sent to browser
+DEBUG - 2020-09-03 15:04:18 --> Total execution time: 0.6796
+INFO - 2020-09-03 15:06:20 --> Config Class Initialized
+INFO - 2020-09-03 15:06:20 --> Hooks Class Initialized
+DEBUG - 2020-09-03 15:06:20 --> UTF-8 Support Enabled
+INFO - 2020-09-03 15:06:20 --> Utf8 Class Initialized
+INFO - 2020-09-03 15:06:20 --> URI Class Initialized
+DEBUG - 2020-09-03 15:06:20 --> No URI present. Default controller set.
+INFO - 2020-09-03 15:06:20 --> Router Class Initialized
+INFO - 2020-09-03 15:06:20 --> Output Class Initialized
+INFO - 2020-09-03 15:06:20 --> Security Class Initialized
+DEBUG - 2020-09-03 15:06:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 15:06:20 --> CSRF cookie sent
+INFO - 2020-09-03 15:06:20 --> Input Class Initialized
+INFO - 2020-09-03 15:06:20 --> Language Class Initialized
+INFO - 2020-09-03 15:06:20 --> Loader Class Initialized
+INFO - 2020-09-03 15:06:20 --> Helper loaded: url_helper
+INFO - 2020-09-03 15:06:20 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 15:06:20 --> Helper loaded: form_helper
+INFO - 2020-09-03 15:06:20 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 15:06:20 --> Database Driver Class Initialized
+INFO - 2020-09-03 15:06:20 --> Controller Class Initialized
+INFO - 2020-09-03 15:06:20 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 15:06:20 --> Helper loaded: cookie_helper
+INFO - 2020-09-03 15:06:20 --> File loaded: C:\xampp\htdocs\HMS\application\views\frontend/index.php
+INFO - 2020-09-03 15:06:20 --> Final output sent to browser
+DEBUG - 2020-09-03 15:06:20 --> Total execution time: 0.6854
+INFO - 2020-09-03 15:06:24 --> Config Class Initialized
+INFO - 2020-09-03 15:06:24 --> Hooks Class Initialized
+DEBUG - 2020-09-03 15:06:24 --> UTF-8 Support Enabled
+INFO - 2020-09-03 15:06:24 --> Utf8 Class Initialized
+INFO - 2020-09-03 15:06:24 --> URI Class Initialized
+INFO - 2020-09-03 15:06:24 --> Router Class Initialized
+INFO - 2020-09-03 15:06:24 --> Output Class Initialized
+INFO - 2020-09-03 15:06:24 --> Security Class Initialized
+DEBUG - 2020-09-03 15:06:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 15:06:24 --> CSRF cookie sent
+INFO - 2020-09-03 15:06:24 --> Input Class Initialized
+INFO - 2020-09-03 15:06:24 --> Language Class Initialized
+INFO - 2020-09-03 15:06:24 --> Loader Class Initialized
+INFO - 2020-09-03 15:06:24 --> Helper loaded: url_helper
+INFO - 2020-09-03 15:06:24 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 15:06:24 --> Helper loaded: form_helper
+INFO - 2020-09-03 15:06:24 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 15:06:24 --> Database Driver Class Initialized
+INFO - 2020-09-03 15:06:24 --> Controller Class Initialized
+INFO - 2020-09-03 15:06:24 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 15:06:24 --> Helper loaded: cookie_helper
+DEBUG - 2020-09-03 15:06:24 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:06:24 --> Model "Category_model" initialized
+DEBUG - 2020-09-03 15:06:24 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:06:24 --> Model "City_model" initialized
+DEBUG - 2020-09-03 15:06:24 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:06:24 --> Model "Ads_model" initialized
+INFO - 2020-09-03 15:06:24 --> File loaded: C:\xampp\htdocs\HMS\application\views\frontend/dashboard-postanad.php
+INFO - 2020-09-03 15:06:24 --> Final output sent to browser
+DEBUG - 2020-09-03 15:06:25 --> Total execution time: 0.8160
+INFO - 2020-09-03 15:06:26 --> Config Class Initialized
+INFO - 2020-09-03 15:06:26 --> Hooks Class Initialized
+DEBUG - 2020-09-03 15:06:26 --> UTF-8 Support Enabled
+INFO - 2020-09-03 15:06:26 --> Utf8 Class Initialized
+INFO - 2020-09-03 15:06:26 --> URI Class Initialized
+INFO - 2020-09-03 15:06:26 --> Router Class Initialized
+INFO - 2020-09-03 15:06:26 --> Output Class Initialized
+INFO - 2020-09-03 15:06:26 --> Security Class Initialized
+DEBUG - 2020-09-03 15:06:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 15:06:26 --> CSRF cookie sent
+INFO - 2020-09-03 15:06:26 --> Input Class Initialized
+INFO - 2020-09-03 15:06:26 --> Language Class Initialized
+INFO - 2020-09-03 15:06:26 --> Loader Class Initialized
+INFO - 2020-09-03 15:06:26 --> Helper loaded: url_helper
+INFO - 2020-09-03 15:06:26 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 15:06:26 --> Helper loaded: form_helper
+INFO - 2020-09-03 15:06:26 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 15:06:26 --> Database Driver Class Initialized
+INFO - 2020-09-03 15:06:26 --> Controller Class Initialized
+INFO - 2020-09-03 15:06:26 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 15:06:26 --> Helper loaded: cookie_helper
+DEBUG - 2020-09-03 15:06:26 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:06:26 --> Model "Category_model" initialized
+DEBUG - 2020-09-03 15:06:26 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:06:26 --> Model "City_model" initialized
+DEBUG - 2020-09-03 15:06:26 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:06:26 --> Model "Ads_model" initialized
+INFO - 2020-09-03 15:06:27 --> File loaded: C:\xampp\htdocs\HMS\application\views\frontend/dashboard-myads.php
+INFO - 2020-09-03 15:06:27 --> Final output sent to browser
+DEBUG - 2020-09-03 15:06:27 --> Total execution time: 0.9173
+INFO - 2020-09-03 15:06:38 --> Config Class Initialized
+INFO - 2020-09-03 15:06:38 --> Hooks Class Initialized
+DEBUG - 2020-09-03 15:06:38 --> UTF-8 Support Enabled
+INFO - 2020-09-03 15:06:38 --> Utf8 Class Initialized
+INFO - 2020-09-03 15:06:38 --> URI Class Initialized
+INFO - 2020-09-03 15:06:38 --> Router Class Initialized
+INFO - 2020-09-03 15:06:38 --> Output Class Initialized
+INFO - 2020-09-03 15:06:38 --> Security Class Initialized
+DEBUG - 2020-09-03 15:06:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 15:06:38 --> CSRF cookie sent
+INFO - 2020-09-03 15:06:38 --> Input Class Initialized
+INFO - 2020-09-03 15:06:38 --> Language Class Initialized
+INFO - 2020-09-03 15:06:38 --> Loader Class Initialized
+INFO - 2020-09-03 15:06:38 --> Helper loaded: url_helper
+INFO - 2020-09-03 15:06:38 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 15:06:38 --> Helper loaded: form_helper
+INFO - 2020-09-03 15:06:38 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 15:06:38 --> Database Driver Class Initialized
+INFO - 2020-09-03 15:06:38 --> Controller Class Initialized
+INFO - 2020-09-03 15:06:38 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 15:06:39 --> Helper loaded: cookie_helper
+DEBUG - 2020-09-03 15:06:39 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:06:39 --> Model "Category_model" initialized
+DEBUG - 2020-09-03 15:06:39 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:06:39 --> Model "City_model" initialized
+DEBUG - 2020-09-03 15:06:39 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:06:39 --> Model "Ads_model" initialized
+INFO - 2020-09-03 15:06:39 --> File loaded: C:\xampp\htdocs\HMS\application\views\frontend/dashboard-postanad.php
+INFO - 2020-09-03 15:06:39 --> Final output sent to browser
+DEBUG - 2020-09-03 15:06:39 --> Total execution time: 0.7850
+INFO - 2020-09-03 15:07:01 --> Config Class Initialized
+INFO - 2020-09-03 15:07:01 --> Hooks Class Initialized
+DEBUG - 2020-09-03 15:07:01 --> UTF-8 Support Enabled
+INFO - 2020-09-03 15:07:01 --> Utf8 Class Initialized
+INFO - 2020-09-03 15:07:01 --> URI Class Initialized
+INFO - 2020-09-03 15:07:01 --> Router Class Initialized
+INFO - 2020-09-03 15:07:01 --> Output Class Initialized
+INFO - 2020-09-03 15:07:01 --> Security Class Initialized
+DEBUG - 2020-09-03 15:07:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 15:07:01 --> CSRF cookie sent
+INFO - 2020-09-03 15:07:01 --> CSRF token verified
+INFO - 2020-09-03 15:07:01 --> Input Class Initialized
+INFO - 2020-09-03 15:07:01 --> Language Class Initialized
+INFO - 2020-09-03 15:07:01 --> Loader Class Initialized
+INFO - 2020-09-03 15:07:01 --> Helper loaded: url_helper
+INFO - 2020-09-03 15:07:01 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 15:07:02 --> Helper loaded: form_helper
+INFO - 2020-09-03 15:07:02 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 15:07:02 --> Database Driver Class Initialized
+INFO - 2020-09-03 15:07:02 --> Controller Class Initialized
+INFO - 2020-09-03 15:07:02 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 15:07:02 --> Helper loaded: cookie_helper
+DEBUG - 2020-09-03 15:07:02 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:07:02 --> Model "Ads_model" initialized
+DEBUG - 2020-09-03 15:07:02 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:07:02 --> Model "Category_model" initialized
+DEBUG - 2020-09-03 15:07:02 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:07:02 --> Model "City_model" initialized
+INFO - 2020-09-03 15:07:02 --> Upload Class Initialized
+DEBUG - 2020-09-03 15:07:02 --> Upload class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:07:02 --> File loaded: C:\xampp\htdocs\HMS\application\views\frontend/dashboard-postanad.php
+INFO - 2020-09-03 15:07:03 --> Final output sent to browser
+DEBUG - 2020-09-03 15:07:03 --> Total execution time: 1.6182
+INFO - 2020-09-03 15:07:05 --> Config Class Initialized
+INFO - 2020-09-03 15:07:05 --> Hooks Class Initialized
+DEBUG - 2020-09-03 15:07:05 --> UTF-8 Support Enabled
+INFO - 2020-09-03 15:07:05 --> Utf8 Class Initialized
+INFO - 2020-09-03 15:07:05 --> URI Class Initialized
+INFO - 2020-09-03 15:07:05 --> Router Class Initialized
+INFO - 2020-09-03 15:07:05 --> Output Class Initialized
+INFO - 2020-09-03 15:07:05 --> Security Class Initialized
+DEBUG - 2020-09-03 15:07:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 15:07:05 --> CSRF cookie sent
+INFO - 2020-09-03 15:07:05 --> Input Class Initialized
+INFO - 2020-09-03 15:07:05 --> Language Class Initialized
+INFO - 2020-09-03 15:07:05 --> Loader Class Initialized
+INFO - 2020-09-03 15:07:05 --> Helper loaded: url_helper
+INFO - 2020-09-03 15:07:06 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 15:07:06 --> Helper loaded: form_helper
+INFO - 2020-09-03 15:07:06 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 15:07:06 --> Database Driver Class Initialized
+INFO - 2020-09-03 15:07:06 --> Controller Class Initialized
+INFO - 2020-09-03 15:07:06 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 15:07:06 --> Helper loaded: cookie_helper
+DEBUG - 2020-09-03 15:07:06 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:07:06 --> Model "Category_model" initialized
+DEBUG - 2020-09-03 15:07:06 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:07:06 --> Model "City_model" initialized
+DEBUG - 2020-09-03 15:07:06 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:07:06 --> Model "Ads_model" initialized
+INFO - 2020-09-03 15:07:06 --> File loaded: C:\xampp\htdocs\HMS\application\views\frontend/dashboard-myads.php
+INFO - 2020-09-03 15:07:06 --> Final output sent to browser
+DEBUG - 2020-09-03 15:07:06 --> Total execution time: 0.9511
+INFO - 2020-09-03 15:07:11 --> Config Class Initialized
+INFO - 2020-09-03 15:07:11 --> Hooks Class Initialized
+DEBUG - 2020-09-03 15:07:11 --> UTF-8 Support Enabled
+INFO - 2020-09-03 15:07:11 --> Utf8 Class Initialized
+INFO - 2020-09-03 15:07:11 --> URI Class Initialized
+INFO - 2020-09-03 15:07:11 --> Router Class Initialized
+INFO - 2020-09-03 15:07:11 --> Output Class Initialized
+INFO - 2020-09-03 15:07:11 --> Security Class Initialized
+DEBUG - 2020-09-03 15:07:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 15:07:12 --> CSRF cookie sent
+INFO - 2020-09-03 15:07:12 --> Input Class Initialized
+INFO - 2020-09-03 15:07:12 --> Language Class Initialized
+INFO - 2020-09-03 15:07:12 --> Loader Class Initialized
+INFO - 2020-09-03 15:07:12 --> Helper loaded: url_helper
+INFO - 2020-09-03 15:07:12 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 15:07:12 --> Helper loaded: form_helper
+INFO - 2020-09-03 15:07:12 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 15:07:12 --> Database Driver Class Initialized
+INFO - 2020-09-03 15:07:12 --> Controller Class Initialized
+INFO - 2020-09-03 15:07:12 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 15:07:12 --> Helper loaded: cookie_helper
+DEBUG - 2020-09-03 15:07:12 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:07:12 --> Model "Category_model" initialized
+DEBUG - 2020-09-03 15:07:12 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:07:12 --> Model "City_model" initialized
+DEBUG - 2020-09-03 15:07:12 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:07:12 --> Model "Ads_model" initialized
+INFO - 2020-09-03 15:07:14 --> Config Class Initialized
+INFO - 2020-09-03 15:07:14 --> Hooks Class Initialized
+DEBUG - 2020-09-03 15:07:14 --> UTF-8 Support Enabled
+INFO - 2020-09-03 15:07:14 --> Utf8 Class Initialized
+INFO - 2020-09-03 15:07:14 --> URI Class Initialized
+INFO - 2020-09-03 15:07:14 --> Router Class Initialized
+INFO - 2020-09-03 15:07:14 --> Output Class Initialized
+INFO - 2020-09-03 15:07:14 --> Security Class Initialized
+DEBUG - 2020-09-03 15:07:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 15:07:14 --> CSRF cookie sent
+INFO - 2020-09-03 15:07:14 --> Input Class Initialized
+INFO - 2020-09-03 15:07:14 --> Language Class Initialized
+INFO - 2020-09-03 15:07:14 --> Loader Class Initialized
+INFO - 2020-09-03 15:07:14 --> Helper loaded: url_helper
+INFO - 2020-09-03 15:07:14 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 15:07:14 --> Helper loaded: form_helper
+INFO - 2020-09-03 15:07:14 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 15:07:14 --> Database Driver Class Initialized
+INFO - 2020-09-03 15:07:14 --> Controller Class Initialized
+INFO - 2020-09-03 15:07:14 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 15:07:14 --> Helper loaded: cookie_helper
+DEBUG - 2020-09-03 15:07:14 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:07:14 --> Model "Category_model" initialized
+DEBUG - 2020-09-03 15:07:14 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:07:14 --> Model "City_model" initialized
+DEBUG - 2020-09-03 15:07:14 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:07:14 --> Model "Ads_model" initialized
+INFO - 2020-09-03 15:07:14 --> File loaded: C:\xampp\htdocs\HMS\application\views\frontend/dashboard-myads.php
+INFO - 2020-09-03 15:07:14 --> Final output sent to browser
+DEBUG - 2020-09-03 15:07:14 --> Total execution time: 0.7849
+INFO - 2020-09-03 15:08:35 --> Config Class Initialized
+INFO - 2020-09-03 15:08:36 --> Hooks Class Initialized
+DEBUG - 2020-09-03 15:08:36 --> UTF-8 Support Enabled
+INFO - 2020-09-03 15:08:36 --> Utf8 Class Initialized
+INFO - 2020-09-03 15:08:36 --> URI Class Initialized
+INFO - 2020-09-03 15:08:36 --> Router Class Initialized
+INFO - 2020-09-03 15:08:36 --> Output Class Initialized
+INFO - 2020-09-03 15:08:36 --> Security Class Initialized
+DEBUG - 2020-09-03 15:08:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 15:08:36 --> CSRF cookie sent
+INFO - 2020-09-03 15:08:36 --> Input Class Initialized
+INFO - 2020-09-03 15:08:36 --> Language Class Initialized
+INFO - 2020-09-03 15:08:36 --> Loader Class Initialized
+INFO - 2020-09-03 15:08:36 --> Helper loaded: url_helper
+INFO - 2020-09-03 15:08:36 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 15:08:36 --> Helper loaded: form_helper
+INFO - 2020-09-03 15:08:36 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 15:08:36 --> Database Driver Class Initialized
+INFO - 2020-09-03 15:08:36 --> Controller Class Initialized
+INFO - 2020-09-03 15:08:36 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 15:08:36 --> Helper loaded: cookie_helper
+DEBUG - 2020-09-03 15:08:36 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:08:36 --> Model "Category_model" initialized
+DEBUG - 2020-09-03 15:08:36 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:08:36 --> Model "City_model" initialized
+DEBUG - 2020-09-03 15:08:36 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:08:36 --> Model "Ads_model" initialized
+INFO - 2020-09-03 15:08:36 --> File loaded: C:\xampp\htdocs\HMS\application\views\frontend/dashboard-myads.php
+INFO - 2020-09-03 15:08:36 --> Final output sent to browser
+DEBUG - 2020-09-03 15:08:36 --> Total execution time: 0.9434
+INFO - 2020-09-03 15:08:38 --> Config Class Initialized
+INFO - 2020-09-03 15:08:38 --> Hooks Class Initialized
+DEBUG - 2020-09-03 15:08:38 --> UTF-8 Support Enabled
+INFO - 2020-09-03 15:08:38 --> Utf8 Class Initialized
+INFO - 2020-09-03 15:08:38 --> URI Class Initialized
+INFO - 2020-09-03 15:08:38 --> Router Class Initialized
+INFO - 2020-09-03 15:08:38 --> Output Class Initialized
+INFO - 2020-09-03 15:08:38 --> Security Class Initialized
+DEBUG - 2020-09-03 15:08:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 15:08:38 --> CSRF cookie sent
+INFO - 2020-09-03 15:08:38 --> Input Class Initialized
+INFO - 2020-09-03 15:08:38 --> Language Class Initialized
+INFO - 2020-09-03 15:08:38 --> Loader Class Initialized
+INFO - 2020-09-03 15:08:38 --> Helper loaded: url_helper
+INFO - 2020-09-03 15:08:38 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 15:08:39 --> Helper loaded: form_helper
+INFO - 2020-09-03 15:08:39 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 15:08:39 --> Database Driver Class Initialized
+INFO - 2020-09-03 15:08:39 --> Controller Class Initialized
+INFO - 2020-09-03 15:08:39 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 15:08:39 --> Helper loaded: cookie_helper
+DEBUG - 2020-09-03 15:08:39 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:08:39 --> Model "User_model" initialized
+INFO - 2020-09-03 15:08:39 --> Config Class Initialized
+INFO - 2020-09-03 15:08:39 --> Hooks Class Initialized
+DEBUG - 2020-09-03 15:08:39 --> UTF-8 Support Enabled
+INFO - 2020-09-03 15:08:39 --> Utf8 Class Initialized
+INFO - 2020-09-03 15:08:39 --> URI Class Initialized
+DEBUG - 2020-09-03 15:08:39 --> No URI present. Default controller set.
+INFO - 2020-09-03 15:08:39 --> Router Class Initialized
+INFO - 2020-09-03 15:08:39 --> Output Class Initialized
+INFO - 2020-09-03 15:08:39 --> Security Class Initialized
+DEBUG - 2020-09-03 15:08:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 15:08:39 --> CSRF cookie sent
+INFO - 2020-09-03 15:08:39 --> Input Class Initialized
+INFO - 2020-09-03 15:08:39 --> Language Class Initialized
+INFO - 2020-09-03 15:08:39 --> Loader Class Initialized
+INFO - 2020-09-03 15:08:39 --> Helper loaded: url_helper
+INFO - 2020-09-03 15:08:39 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 15:08:40 --> Helper loaded: form_helper
+INFO - 2020-09-03 15:08:40 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 15:08:40 --> Database Driver Class Initialized
+INFO - 2020-09-03 15:08:40 --> Controller Class Initialized
+INFO - 2020-09-03 15:08:40 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 15:08:40 --> Helper loaded: cookie_helper
+INFO - 2020-09-03 15:08:40 --> File loaded: C:\xampp\htdocs\HMS\application\views\frontend/index.php
+INFO - 2020-09-03 15:08:40 --> Final output sent to browser
+DEBUG - 2020-09-03 15:08:40 --> Total execution time: 0.9244
+INFO - 2020-09-03 15:08:49 --> Config Class Initialized
+INFO - 2020-09-03 15:08:49 --> Hooks Class Initialized
+DEBUG - 2020-09-03 15:08:49 --> UTF-8 Support Enabled
+INFO - 2020-09-03 15:08:49 --> Utf8 Class Initialized
+INFO - 2020-09-03 15:08:49 --> URI Class Initialized
+INFO - 2020-09-03 15:08:49 --> Router Class Initialized
+INFO - 2020-09-03 15:08:49 --> Output Class Initialized
+INFO - 2020-09-03 15:08:49 --> Security Class Initialized
+DEBUG - 2020-09-03 15:08:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 15:08:50 --> CSRF cookie sent
+INFO - 2020-09-03 15:08:50 --> Input Class Initialized
+INFO - 2020-09-03 15:08:50 --> Language Class Initialized
+INFO - 2020-09-03 15:08:50 --> Loader Class Initialized
+INFO - 2020-09-03 15:08:50 --> Helper loaded: url_helper
+INFO - 2020-09-03 15:08:50 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 15:08:50 --> Helper loaded: form_helper
+INFO - 2020-09-03 15:08:50 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 15:08:50 --> Database Driver Class Initialized
+INFO - 2020-09-03 15:08:50 --> Controller Class Initialized
+INFO - 2020-09-03 15:08:50 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 15:08:50 --> Helper loaded: cookie_helper
+DEBUG - 2020-09-03 15:08:50 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:08:50 --> Model "Category_model" initialized
+DEBUG - 2020-09-03 15:08:50 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:08:50 --> Model "City_model" initialized
+DEBUG - 2020-09-03 15:08:50 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:08:50 --> Model "Ads_model" initialized
+INFO - 2020-09-03 15:08:50 --> Config Class Initialized
+INFO - 2020-09-03 15:08:50 --> Hooks Class Initialized
+DEBUG - 2020-09-03 15:08:50 --> UTF-8 Support Enabled
+INFO - 2020-09-03 15:08:50 --> Utf8 Class Initialized
+INFO - 2020-09-03 15:08:50 --> URI Class Initialized
+INFO - 2020-09-03 15:08:50 --> Router Class Initialized
+INFO - 2020-09-03 15:08:50 --> Output Class Initialized
+INFO - 2020-09-03 15:08:50 --> Security Class Initialized
+DEBUG - 2020-09-03 15:08:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 15:08:50 --> CSRF cookie sent
+INFO - 2020-09-03 15:08:50 --> Input Class Initialized
+INFO - 2020-09-03 15:08:50 --> Language Class Initialized
+INFO - 2020-09-03 15:08:50 --> Loader Class Initialized
+INFO - 2020-09-03 15:08:50 --> Helper loaded: url_helper
+INFO - 2020-09-03 15:08:50 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 15:08:51 --> Helper loaded: form_helper
+INFO - 2020-09-03 15:08:51 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 15:08:51 --> Database Driver Class Initialized
+INFO - 2020-09-03 15:08:51 --> Controller Class Initialized
+INFO - 2020-09-03 15:08:51 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 15:08:51 --> Helper loaded: cookie_helper
+INFO - 2020-09-03 15:08:51 --> File loaded: C:\xampp\htdocs\HMS\application\views\frontend/loginsignup.php
+INFO - 2020-09-03 15:08:51 --> Final output sent to browser
+DEBUG - 2020-09-03 15:08:51 --> Total execution time: 0.6374
+INFO - 2020-09-03 15:08:57 --> Config Class Initialized
+INFO - 2020-09-03 15:08:57 --> Hooks Class Initialized
+DEBUG - 2020-09-03 15:08:57 --> UTF-8 Support Enabled
+INFO - 2020-09-03 15:08:57 --> Utf8 Class Initialized
+INFO - 2020-09-03 15:08:58 --> URI Class Initialized
+INFO - 2020-09-03 15:08:58 --> Router Class Initialized
+INFO - 2020-09-03 15:08:58 --> Output Class Initialized
+INFO - 2020-09-03 15:08:58 --> Security Class Initialized
+DEBUG - 2020-09-03 15:08:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 15:08:58 --> CSRF cookie sent
+INFO - 2020-09-03 15:08:58 --> Input Class Initialized
+INFO - 2020-09-03 15:08:58 --> Language Class Initialized
+INFO - 2020-09-03 15:08:58 --> Loader Class Initialized
+INFO - 2020-09-03 15:08:58 --> Helper loaded: url_helper
+INFO - 2020-09-03 15:08:58 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 15:08:58 --> Helper loaded: form_helper
+INFO - 2020-09-03 15:08:58 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 15:08:58 --> Database Driver Class Initialized
+INFO - 2020-09-03 15:08:58 --> Controller Class Initialized
+INFO - 2020-09-03 15:08:58 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 15:08:58 --> Helper loaded: cookie_helper
+INFO - 2020-09-03 15:08:58 --> File loaded: C:\xampp\htdocs\HMS\application\views\frontend/loginsignup.php
+INFO - 2020-09-03 15:08:58 --> Final output sent to browser
+DEBUG - 2020-09-03 15:08:58 --> Total execution time: 0.6585
+INFO - 2020-09-03 15:09:02 --> Config Class Initialized
+INFO - 2020-09-03 15:09:02 --> Hooks Class Initialized
+DEBUG - 2020-09-03 15:09:02 --> UTF-8 Support Enabled
+INFO - 2020-09-03 15:09:02 --> Utf8 Class Initialized
+INFO - 2020-09-03 15:09:02 --> URI Class Initialized
+INFO - 2020-09-03 15:09:02 --> Router Class Initialized
+INFO - 2020-09-03 15:09:02 --> Output Class Initialized
+INFO - 2020-09-03 15:09:02 --> Security Class Initialized
+DEBUG - 2020-09-03 15:09:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 15:09:02 --> CSRF cookie sent
+INFO - 2020-09-03 15:09:02 --> Input Class Initialized
+INFO - 2020-09-03 15:09:02 --> Language Class Initialized
+INFO - 2020-09-03 15:09:02 --> Loader Class Initialized
+INFO - 2020-09-03 15:09:02 --> Helper loaded: url_helper
+INFO - 2020-09-03 15:09:02 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 15:09:02 --> Helper loaded: form_helper
+INFO - 2020-09-03 15:09:02 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 15:09:02 --> Database Driver Class Initialized
+INFO - 2020-09-03 15:09:02 --> Controller Class Initialized
+INFO - 2020-09-03 15:09:02 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 15:09:02 --> Helper loaded: cookie_helper
+DEBUG - 2020-09-03 15:09:02 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:09:03 --> Model "Category_model" initialized
+DEBUG - 2020-09-03 15:09:03 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:09:03 --> Model "City_model" initialized
+DEBUG - 2020-09-03 15:09:03 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:09:03 --> Model "Ads_model" initialized
+INFO - 2020-09-03 15:09:03 --> Config Class Initialized
+INFO - 2020-09-03 15:09:03 --> Hooks Class Initialized
+DEBUG - 2020-09-03 15:09:03 --> UTF-8 Support Enabled
+INFO - 2020-09-03 15:09:03 --> Utf8 Class Initialized
+INFO - 2020-09-03 15:09:03 --> URI Class Initialized
+INFO - 2020-09-03 15:09:03 --> Router Class Initialized
+INFO - 2020-09-03 15:09:03 --> Output Class Initialized
+INFO - 2020-09-03 15:09:03 --> Security Class Initialized
+DEBUG - 2020-09-03 15:09:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 15:09:03 --> CSRF cookie sent
+INFO - 2020-09-03 15:09:03 --> Input Class Initialized
+INFO - 2020-09-03 15:09:03 --> Language Class Initialized
+INFO - 2020-09-03 15:09:03 --> Loader Class Initialized
+INFO - 2020-09-03 15:09:03 --> Helper loaded: url_helper
+INFO - 2020-09-03 15:09:03 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 15:09:03 --> Helper loaded: form_helper
+INFO - 2020-09-03 15:09:03 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 15:09:03 --> Database Driver Class Initialized
+INFO - 2020-09-03 15:09:03 --> Controller Class Initialized
+INFO - 2020-09-03 15:09:03 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 15:09:03 --> Helper loaded: cookie_helper
+INFO - 2020-09-03 15:09:03 --> File loaded: C:\xampp\htdocs\HMS\application\views\frontend/loginsignup.php
+INFO - 2020-09-03 15:09:03 --> Final output sent to browser
+DEBUG - 2020-09-03 15:09:03 --> Total execution time: 0.6668
+INFO - 2020-09-03 15:09:07 --> Config Class Initialized
+INFO - 2020-09-03 15:09:07 --> Hooks Class Initialized
+DEBUG - 2020-09-03 15:09:07 --> UTF-8 Support Enabled
+INFO - 2020-09-03 15:09:07 --> Utf8 Class Initialized
+INFO - 2020-09-03 15:09:07 --> URI Class Initialized
+INFO - 2020-09-03 15:09:07 --> Router Class Initialized
+INFO - 2020-09-03 15:09:07 --> Output Class Initialized
+INFO - 2020-09-03 15:09:07 --> Security Class Initialized
+DEBUG - 2020-09-03 15:09:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 15:09:08 --> CSRF cookie sent
+INFO - 2020-09-03 15:09:08 --> Input Class Initialized
+INFO - 2020-09-03 15:09:08 --> Language Class Initialized
+INFO - 2020-09-03 15:09:08 --> Loader Class Initialized
+INFO - 2020-09-03 15:09:08 --> Helper loaded: url_helper
+INFO - 2020-09-03 15:09:08 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 15:09:08 --> Helper loaded: form_helper
+INFO - 2020-09-03 15:09:08 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 15:09:08 --> Database Driver Class Initialized
+INFO - 2020-09-03 15:09:08 --> Controller Class Initialized
+INFO - 2020-09-03 15:09:08 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 15:09:08 --> Helper loaded: cookie_helper
+INFO - 2020-09-03 15:09:08 --> File loaded: C:\xampp\htdocs\HMS\application\views\frontend/loginsignup.php
+INFO - 2020-09-03 15:09:08 --> Final output sent to browser
+DEBUG - 2020-09-03 15:09:08 --> Total execution time: 0.6281
+INFO - 2020-09-03 15:09:15 --> Config Class Initialized
+INFO - 2020-09-03 15:09:15 --> Hooks Class Initialized
+DEBUG - 2020-09-03 15:09:15 --> UTF-8 Support Enabled
+INFO - 2020-09-03 15:09:15 --> Utf8 Class Initialized
+INFO - 2020-09-03 15:09:15 --> URI Class Initialized
+INFO - 2020-09-03 15:09:15 --> Router Class Initialized
+INFO - 2020-09-03 15:09:15 --> Output Class Initialized
+INFO - 2020-09-03 15:09:15 --> Security Class Initialized
+DEBUG - 2020-09-03 15:09:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 15:09:15 --> CSRF cookie sent
+INFO - 2020-09-03 15:09:15 --> CSRF token verified
+INFO - 2020-09-03 15:09:15 --> Input Class Initialized
+INFO - 2020-09-03 15:09:15 --> Language Class Initialized
+INFO - 2020-09-03 15:09:15 --> Loader Class Initialized
+INFO - 2020-09-03 15:09:15 --> Helper loaded: url_helper
+INFO - 2020-09-03 15:09:15 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 15:09:15 --> Helper loaded: form_helper
+INFO - 2020-09-03 15:09:15 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 15:09:15 --> Database Driver Class Initialized
+INFO - 2020-09-03 15:09:15 --> Controller Class Initialized
+INFO - 2020-09-03 15:09:15 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 15:09:15 --> Helper loaded: cookie_helper
+DEBUG - 2020-09-03 15:09:15 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:09:15 --> Model "User_model" initialized
+INFO - 2020-09-03 15:09:15 --> Config Class Initialized
+INFO - 2020-09-03 15:09:15 --> Hooks Class Initialized
+DEBUG - 2020-09-03 15:09:16 --> UTF-8 Support Enabled
+INFO - 2020-09-03 15:09:16 --> Utf8 Class Initialized
+INFO - 2020-09-03 15:09:16 --> URI Class Initialized
+DEBUG - 2020-09-03 15:09:16 --> No URI present. Default controller set.
+INFO - 2020-09-03 15:09:16 --> Router Class Initialized
+INFO - 2020-09-03 15:09:16 --> Output Class Initialized
+INFO - 2020-09-03 15:09:16 --> Security Class Initialized
+DEBUG - 2020-09-03 15:09:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 15:09:16 --> CSRF cookie sent
+INFO - 2020-09-03 15:09:16 --> Input Class Initialized
+INFO - 2020-09-03 15:09:16 --> Language Class Initialized
+INFO - 2020-09-03 15:09:16 --> Loader Class Initialized
+INFO - 2020-09-03 15:09:16 --> Helper loaded: url_helper
+INFO - 2020-09-03 15:09:16 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 15:09:16 --> Helper loaded: form_helper
+INFO - 2020-09-03 15:09:16 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 15:09:16 --> Database Driver Class Initialized
+INFO - 2020-09-03 15:09:16 --> Controller Class Initialized
+INFO - 2020-09-03 15:09:16 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 15:09:16 --> Helper loaded: cookie_helper
+INFO - 2020-09-03 15:09:16 --> File loaded: C:\xampp\htdocs\HMS\application\views\frontend/index.php
+INFO - 2020-09-03 15:09:16 --> Final output sent to browser
+DEBUG - 2020-09-03 15:09:16 --> Total execution time: 0.6444
+INFO - 2020-09-03 15:10:12 --> Config Class Initialized
+INFO - 2020-09-03 15:10:12 --> Hooks Class Initialized
+DEBUG - 2020-09-03 15:10:12 --> UTF-8 Support Enabled
+INFO - 2020-09-03 15:10:12 --> Utf8 Class Initialized
+INFO - 2020-09-03 15:10:12 --> URI Class Initialized
+DEBUG - 2020-09-03 15:10:12 --> No URI present. Default controller set.
+INFO - 2020-09-03 15:10:12 --> Router Class Initialized
+INFO - 2020-09-03 15:10:12 --> Output Class Initialized
+INFO - 2020-09-03 15:10:12 --> Security Class Initialized
+DEBUG - 2020-09-03 15:10:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 15:10:12 --> CSRF cookie sent
+INFO - 2020-09-03 15:10:12 --> Input Class Initialized
+INFO - 2020-09-03 15:10:12 --> Language Class Initialized
+INFO - 2020-09-03 15:10:12 --> Loader Class Initialized
+INFO - 2020-09-03 15:10:12 --> Helper loaded: url_helper
+INFO - 2020-09-03 15:10:12 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 15:10:12 --> Helper loaded: form_helper
+INFO - 2020-09-03 15:10:12 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 15:10:12 --> Database Driver Class Initialized
+INFO - 2020-09-03 15:10:12 --> Controller Class Initialized
+INFO - 2020-09-03 15:10:12 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 15:10:12 --> Helper loaded: cookie_helper
+INFO - 2020-09-03 15:10:12 --> File loaded: C:\xampp\htdocs\HMS\application\views\frontend/index.php
+INFO - 2020-09-03 15:10:12 --> Final output sent to browser
+DEBUG - 2020-09-03 15:10:13 --> Total execution time: 0.7351
+INFO - 2020-09-03 15:10:14 --> Config Class Initialized
+INFO - 2020-09-03 15:10:15 --> Hooks Class Initialized
+DEBUG - 2020-09-03 15:10:15 --> UTF-8 Support Enabled
+INFO - 2020-09-03 15:10:15 --> Utf8 Class Initialized
+INFO - 2020-09-03 15:10:15 --> URI Class Initialized
+INFO - 2020-09-03 15:10:15 --> Router Class Initialized
+INFO - 2020-09-03 15:10:15 --> Output Class Initialized
+INFO - 2020-09-03 15:10:15 --> Security Class Initialized
+DEBUG - 2020-09-03 15:10:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 15:10:15 --> CSRF cookie sent
+INFO - 2020-09-03 15:10:15 --> Input Class Initialized
+INFO - 2020-09-03 15:10:15 --> Language Class Initialized
+INFO - 2020-09-03 15:10:15 --> Loader Class Initialized
+INFO - 2020-09-03 15:10:15 --> Helper loaded: url_helper
+INFO - 2020-09-03 15:10:15 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 15:10:15 --> Helper loaded: form_helper
+INFO - 2020-09-03 15:10:15 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 15:10:15 --> Database Driver Class Initialized
+INFO - 2020-09-03 15:10:15 --> Controller Class Initialized
+INFO - 2020-09-03 15:10:15 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 15:10:15 --> Helper loaded: cookie_helper
+DEBUG - 2020-09-03 15:10:15 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:10:15 --> Model "Category_model" initialized
+DEBUG - 2020-09-03 15:10:15 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:10:15 --> Model "City_model" initialized
+DEBUG - 2020-09-03 15:10:15 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:10:15 --> Model "Ads_model" initialized
+INFO - 2020-09-03 15:10:16 --> File loaded: C:\xampp\htdocs\HMS\application\views\frontend/dashboard-postanad.php
+INFO - 2020-09-03 15:10:16 --> Final output sent to browser
+DEBUG - 2020-09-03 15:10:16 --> Total execution time: 1.0877
+INFO - 2020-09-03 15:10:26 --> Config Class Initialized
+INFO - 2020-09-03 15:10:26 --> Hooks Class Initialized
+DEBUG - 2020-09-03 15:10:26 --> UTF-8 Support Enabled
+INFO - 2020-09-03 15:10:26 --> Utf8 Class Initialized
+INFO - 2020-09-03 15:10:26 --> URI Class Initialized
+INFO - 2020-09-03 15:10:26 --> Router Class Initialized
+INFO - 2020-09-03 15:10:27 --> Output Class Initialized
+INFO - 2020-09-03 15:10:27 --> Security Class Initialized
+DEBUG - 2020-09-03 15:10:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 15:10:27 --> CSRF cookie sent
+INFO - 2020-09-03 15:10:27 --> Input Class Initialized
+INFO - 2020-09-03 15:10:27 --> Language Class Initialized
+INFO - 2020-09-03 15:10:27 --> Loader Class Initialized
+INFO - 2020-09-03 15:10:27 --> Helper loaded: url_helper
+INFO - 2020-09-03 15:10:27 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 15:10:27 --> Helper loaded: form_helper
+INFO - 2020-09-03 15:10:27 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 15:10:27 --> Database Driver Class Initialized
+INFO - 2020-09-03 15:10:27 --> Controller Class Initialized
+INFO - 2020-09-03 15:10:27 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 15:10:27 --> Helper loaded: cookie_helper
+DEBUG - 2020-09-03 15:10:27 --> Session class already loaded. Second attempt ignored.
+INFO - 2020-09-03 15:10:27 --> Model "User_model" initialized
+INFO - 2020-09-03 15:10:27 --> Config Class Initialized
+INFO - 2020-09-03 15:10:27 --> Hooks Class Initialized
+DEBUG - 2020-09-03 15:10:27 --> UTF-8 Support Enabled
+INFO - 2020-09-03 15:10:27 --> Utf8 Class Initialized
+INFO - 2020-09-03 15:10:27 --> URI Class Initialized
+DEBUG - 2020-09-03 15:10:27 --> No URI present. Default controller set.
+INFO - 2020-09-03 15:10:27 --> Router Class Initialized
+INFO - 2020-09-03 15:10:27 --> Output Class Initialized
+INFO - 2020-09-03 15:10:27 --> Security Class Initialized
+DEBUG - 2020-09-03 15:10:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 15:10:27 --> CSRF cookie sent
+INFO - 2020-09-03 15:10:27 --> Input Class Initialized
+INFO - 2020-09-03 15:10:28 --> Language Class Initialized
+INFO - 2020-09-03 15:10:28 --> Loader Class Initialized
+INFO - 2020-09-03 15:10:28 --> Helper loaded: url_helper
+INFO - 2020-09-03 15:10:28 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 15:10:28 --> Helper loaded: form_helper
+INFO - 2020-09-03 15:10:28 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 15:10:28 --> Database Driver Class Initialized
+INFO - 2020-09-03 15:10:28 --> Controller Class Initialized
+INFO - 2020-09-03 15:10:28 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 15:10:28 --> Helper loaded: cookie_helper
+INFO - 2020-09-03 15:10:28 --> File loaded: C:\xampp\htdocs\HMS\application\views\frontend/index.php
+INFO - 2020-09-03 15:10:28 --> Final output sent to browser
+DEBUG - 2020-09-03 15:10:28 --> Total execution time: 0.7280
+INFO - 2020-09-03 15:10:38 --> Config Class Initialized
+INFO - 2020-09-03 15:10:38 --> Hooks Class Initialized
+DEBUG - 2020-09-03 15:10:38 --> UTF-8 Support Enabled
+INFO - 2020-09-03 15:10:38 --> Utf8 Class Initialized
+INFO - 2020-09-03 15:10:38 --> URI Class Initialized
+INFO - 2020-09-03 15:10:38 --> Router Class Initialized
+INFO - 2020-09-03 15:10:38 --> Output Class Initialized
+INFO - 2020-09-03 15:10:38 --> Security Class Initialized
+DEBUG - 2020-09-03 15:10:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 15:10:38 --> CSRF cookie sent
+INFO - 2020-09-03 15:10:38 --> Input Class Initialized
+INFO - 2020-09-03 15:10:38 --> Language Class Initialized
+INFO - 2020-09-03 15:10:38 --> Loader Class Initialized
+INFO - 2020-09-03 15:10:38 --> Helper loaded: url_helper
+INFO - 2020-09-03 15:10:38 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 15:10:38 --> Helper loaded: form_helper
+INFO - 2020-09-03 15:10:38 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 15:10:38 --> Database Driver Class Initialized
+INFO - 2020-09-03 15:10:39 --> Controller Class Initialized
+INFO - 2020-09-03 15:10:39 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 15:10:39 --> Helper loaded: cookie_helper
+INFO - 2020-09-03 15:10:39 --> File loaded: C:\xampp\htdocs\HMS\application\views\frontend/index.php
+INFO - 2020-09-03 15:10:39 --> Final output sent to browser
+DEBUG - 2020-09-03 15:10:39 --> Total execution time: 0.6195

@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Sep 03, 2020 at 08:40 AM
+-- Generation Time: Sep 03, 2020 at 03:13 PM
 -- Server version: 10.4.13-MariaDB
 -- PHP Version: 7.4.8
 
@@ -20,6 +20,35 @@ SET time_zone = "+00:00";
 --
 -- Database: `hms`
 --
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `ads`
+--
+
+CREATE TABLE `ads` (
+  `id` int(11) NOT NULL,
+  `product_name` varchar(255) NOT NULL,
+  `product_price` double NOT NULL,
+  `category_id` int(11) NOT NULL,
+  `city_id` int(11) NOT NULL,
+  `ad_picture` varchar(255) NOT NULL,
+  `ad_video` varchar(255) NOT NULL,
+  `user_id` int(11) NOT NULL,
+  `created_at` datetime NOT NULL DEFAULT current_timestamp(),
+  `is_active` int(11) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+--
+-- Dumping data for table `ads`
+--
+
+INSERT INTO `ads` (`id`, `product_name`, `product_price`, `category_id`, `city_id`, `ad_picture`, `ad_video`, `user_id`, `created_at`, `is_active`) VALUES
+(1, 'Handfree', 20, 1, 2, 'ads38555.png', 'adsvideo87010.mp4', 1, '2020-09-03 04:44:05', 1),
+(2, 'Handfree', 20, 1, 2, 'ads98709.png', 'adsvideo67815.mp4', 1, '2020-09-03 04:46:50', 1),
+(3, 'Speaker', 10, 1, 3, 'ads87650.png', 'adsvideo4028.mp4', 1, '2020-09-03 04:48:40', 1),
+(4, 'Handfree', 20, 1, 2, 'ads22064.png', 'adsvideo39472.mp4', 4, '2020-09-03 06:07:02', 1);
 
 -- --------------------------------------------------------
 
@@ -41,7 +70,7 @@ CREATE TABLE `category` (
 --
 
 INSERT INTO `category` (`id`, `title`, `description`, `created_by`, `created_at`, `is_active`) VALUES
-(1, 'Music', '', 1, '0000-00-00 00:00:00', -1);
+(1, 'Music', '', 1, '0000-00-00 00:00:00', 1);
 
 -- --------------------------------------------------------
 
@@ -84,8 +113,31 @@ CREATE TABLE `ci_sessions` (
 --
 
 INSERT INTO `ci_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES
+('4mcf6o6018mi9teat68k500vf9fchp62', '::1', 1599138639, 0x5f5f63695f6c6173745f726567656e65726174657c693a313539393133383632383b),
+('3deuom4moq4ia6u7ka1piihv69a49l7q', '::1', 1599137480, 0x5f5f63695f6c6173745f726567656e65726174657c693a313539393133373438303b),
+('n7a2b9j129nbmetqrv7bq5gif8iraahv', '::1', 1599138214, 0x5f5f63695f6c6173745f726567656e65726174657c693a313539393133383231343b7573657249647c733a313a2234223b75736572547970657c733a373a2274657374696e67223b7573657246697273747c733a31373a2274657374696e6740676d61696c2e636f6d223b),
+('hjhv8pk1ka3o7kc49ah9qbng5n9j1mld', '::1', 1599136122, 0x5f5f63695f6c6173745f726567656e65726174657c693a313539393133363131313b7573657249647c733a313a2231223b75736572547970657c733a353a2261646d696e223b7573657246697273747c4e3b757365724c6173747c4e3b75736572456d61696c7c733a31393a22616c69686f73706974616c40686d732e636f6d223b),
+('rs13s0v5lo3lffkf2gfepbv1stp69po2', '::1', 1599136084, 0x5f5f63695f6c6173745f726567656e65726174657c693a313539393133363038343b),
+('1f0b4jaqngi4ffpipf72ev31dpf5477j', '::1', 1599133610, 0x5f5f63695f6c6173745f726567656e65726174657c693a313539393133333631303b),
+('2sh8t0bofde0be0g080n4h8j2knqk5f3', '::1', 1599135103, 0x5f5f63695f6c6173745f726567656e65726174657c693a313539393133353130333b),
+('po0l09fr69bcd6te4d57rjjgi5s5hmeb', '::1', 1599132890, 0x5f5f63695f6c6173745f726567656e65726174657c693a313539393133323839303b),
+('rt32m974jht08gthj1gtuab2d98uq5qm', '::1', 1599133220, 0x5f5f63695f6c6173745f726567656e65726174657c693a313539393133333232303b),
+('806jcg3d0vm2ci1gb3ksq5n6t0g90jd5', '::1', 1599132233, 0x5f5f63695f6c6173745f726567656e65726174657c693a313539393133323233333b),
+('fs6vjiqdruvm2b1bcfipm183kiovt3cb', '::1', 1599132548, 0x5f5f63695f6c6173745f726567656e65726174657c693a313539393133323534383b),
+('i756n7e18gu6l98i40dr24rsilid48qf', '::1', 1599131575, 0x5f5f63695f6c6173745f726567656e65726174657c693a313539393133313537353b),
+('gi0hricutu68oddk5iira2ou3cd0nho7', '::1', 1599131916, 0x5f5f63695f6c6173745f726567656e65726174657c693a313539393133313931363b),
+('ugt3p70diimo0prcu7cqud4bp5kelp8g', '::1', 1599130859, 0x5f5f63695f6c6173745f726567656e65726174657c693a313539393133303835393b),
+('m33k7a3q8b107vmc0v0p7c07sl7cfppd', '::1', 1599131170, 0x5f5f63695f6c6173745f726567656e65726174657c693a313539393133313137303b),
+('bjve3lsekp29sl5cacfv9doptnhdufei', '::1', 1599124402, 0x5f5f63695f6c6173745f726567656e65726174657c693a313539393132343430323b),
+('qga1170unduq7ihsbemd483ro3ptirhj', '::1', 1599124830, 0x5f5f63695f6c6173745f726567656e65726174657c693a313539393132343833303b),
+('li9gncckjc8s96gt7kfvpt35kd29j1nl', '::1', 1599123680, 0x5f5f63695f6c6173745f726567656e65726174657c693a313539393132333638303b),
+('7g7onm0bsjb9lg1u6httt2l9hfvssoej', '::1', 1599124094, 0x5f5f63695f6c6173745f726567656e65726174657c693a313539393132343039343b),
+('obr5n45cvpbpapr2btvnpalpr1ojgmc0', '::1', 1599122639, 0x5f5f63695f6c6173745f726567656e65726174657c693a313539393132323633393b),
+('tb5m6gtd7p9qavmbgie17gtqbcdar5hv', '::1', 1599123089, 0x5f5f63695f6c6173745f726567656e65726174657c693a313539393132333038393b),
+('va8s2s669mvlmb99cpfucnt2jf514d5t', '::1', 1599119174, 0x5f5f63695f6c6173745f726567656e65726174657c693a313539393131393137343b),
+('t3rogk0kn0cdf3q4p80648o4tdbbbe8m', '::1', 1599121016, 0x5f5f63695f6c6173745f726567656e65726174657c693a313539393132313031363b),
 ('hlofuighu3oiatrn3lcapq128f53rgnj', '::1', 1599114723, 0x5f5f63695f6c6173745f726567656e65726174657c693a313539393131343732333b),
-('6t240r7ijvguoucsaecjjbrulc8o30b4', '::1', 1599114804, 0x5f5f63695f6c6173745f726567656e65726174657c693a313539393131343732333b),
+('6t240r7ijvguoucsaecjjbrulc8o30b4', '::1', 1599118499, 0x5f5f63695f6c6173745f726567656e65726174657c693a313539393131383439393b),
 ('7ei3h2dbdimipf4vn5qu8442nj1jvgbo', '::1', 1599109307, 0x5f5f63695f6c6173745f726567656e65726174657c693a313539393130393330373b),
 ('gadh5ki3tje2nbhto5vdso7pu2ckf9l7', '::1', 1599114251, 0x5f5f63695f6c6173745f726567656e65726174657c693a313539393131343235313b),
 ('oa27g5eh70p2na9ch859pkba9vruccb6', '::1', 1599103427, 0x5f5f63695f6c6173745f726567656e65726174657c693a313539393130333432373b),
@@ -217,7 +269,8 @@ CREATE TABLE `user` (
 INSERT INTO `user` (`id`, `name`, `phone`, `email`, `password`, `profile`, `created_at`, `is_active`) VALUES
 (1, 'Adeel Amir', '03060110405', 'adeel98amir@gmail.com', '1234', NULL, '2020-09-01 21:36:53', -1),
 (2, 'test testing', '0201101010', 'testing@gmail.com', '123', NULL, '2020-09-01 21:48:12', -1),
-(3, 'test testing', '0201101010', 'testing@gmail.com', '123', NULL, '2020-09-01 21:48:52', -1);
+(3, 'test testing', '0201101010', 'testing@gmail.com', '123', NULL, '2020-09-01 21:48:52', -1),
+(4, 'testing', '03043223876', 'testing@gmail.com', '12345678', NULL, '2020-09-03 05:52:50', 1);
 
 -- --------------------------------------------------------
 
@@ -240,12 +293,17 @@ CREATE TABLE `users_tb` (
 --
 
 INSERT INTO `users_tb` (`user_id`, `full_name`, `user_email`, `user_password`, `user_type`, `active_status`, `created_at`) VALUES
-(1, 'Ali Hospital', 'alihospital@hms.com', '5e8667a439c68f5145dd2fcbecf02209', 'admin', 1, '2020-06-06 16:33:55'),
-(10, 'Eman', 'eman@hms.com', '25d55ad283aa400af464c76d713c07ad', 'doctor', 1, '2020-06-14 21:48:10');
+(1, 'Ali Hospital', 'admin', '5e8667a439c68f5145dd2fcbecf02209', 'admin', 1, '2020-06-06 16:33:55');
 
 --
 -- Indexes for dumped tables
 --
+
+--
+-- Indexes for table `ads`
+--
+ALTER TABLE `ads`
+  ADD PRIMARY KEY (`id`);
 
 --
 -- Indexes for table `category`
@@ -301,6 +359,12 @@ ALTER TABLE `users_tb`
 --
 
 --
+-- AUTO_INCREMENT for table `ads`
+--
+ALTER TABLE `ads`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
+
+--
 -- AUTO_INCREMENT for table `category`
 --
 ALTER TABLE `category`
@@ -334,7 +398,7 @@ ALTER TABLE `lab_tests`
 -- AUTO_INCREMENT for table `user`
 --
 ALTER TABLE `user`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
 
 --
 -- AUTO_INCREMENT for table `users_tb`
