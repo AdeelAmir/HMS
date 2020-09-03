@@ -13,6 +13,14 @@ class Seller extends Base_Controller
         $this->load->model('Category_model', 'category');
         $this->load->model('City_model', 'city');
         $this->load->model('Ads_model', 'ads');
+
+        if ($this->session->userdata('userId')) {
+            
+        }
+        else
+        {
+            redirect(base_url('BuySell/login_signup'), 'refresh');
+        }
     }
 
     public function myads()

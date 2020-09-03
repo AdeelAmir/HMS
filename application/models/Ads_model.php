@@ -44,13 +44,13 @@ class  Ads_model extends CI_Model
     // iss meh login user id ki condition lgani ha
     public function Read($Id = ''){
         if($Id != ''){
-            $sql = "SELECT A.id,A.product_name,A.product_price,A.ad_picture,B.title AS CategoryTitle,C.title AS CityTitle FROM ads A INNER JOIN category AS B ON A.category_id = B.id INNER JOIN city C ON A.city_id = C.id WHERE A.id = ? AND A.is_active = 1";
-            $result = $this->db->query($sql, array($Id));
+            $sql = "SELECT A.id,A.product_name,A.product_price,A.ad_picture,B.title AS CategoryTitle,C.title AS CityTitle FROM ads A INNER JOIN category AS B ON A.category_id = B.id INNER JOIN city C ON A.city_id = C.id WHERE A.id = ? AND A.user_id = ? AND A.is_active = 1";
+            $result = $this->db->query($sql, array($Id, $this->session->userdata('userId')));
             return $result->result();
         }
         else{
-            $sql = "SELECT A.id,A.product_name,A.product_price,A.ad_picture,B.title AS CategoryTitle,C.title AS CityTitle FROM ads A INNER JOIN category AS B ON A.category_id = B.id INNER JOIN city C ON A.city_id = C.id WHERE A.is_active = 1";
-            $result = $this->db->query($sql);
+            $sql = "SELECT A.id,A.product_name,A.product_price,A.ad_picture,B.title AS CategoryTitle,C.title AS CityTitle FROM ads A INNER JOIN category AS B ON A.category_id = B.id INNER JOIN city C ON A.city_id = C.id WHERE A.user_id = ? AND A.is_active = 1";
+            $result = $this->db->query($sql, array($this->session->userdata('userId')));
             return $result->result();
         }
     }

@@ -21,7 +21,7 @@
                             </a>
                             <ul class="dropdown-menu tg-themedropdownmenu" aria-labelledby="tg-adminnav">
                                 <li>
-                                    <a href="javascript:void(0);">
+                                    <a href="<?php echo base_url('Seller/postads'); ?>">
                                         <i class="icon-layers"></i>
                                         <span>Dashboard Post Ad</span>
                                     </a>

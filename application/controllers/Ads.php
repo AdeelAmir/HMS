@@ -13,6 +13,14 @@ class Ads extends Base_Controller
         $this->load->model('Ads_model', 'ads');
         $this->load->model('Category_model', 'category');
         $this->load->model('City_model', 'city');
+
+        if ($this->session->userdata('userId')) {
+            
+        }
+        else
+        {
+            redirect(base_url('BuySell/login_signup'), 'refresh');
+        }
     }
 
     public function createAds()
@@ -21,7 +29,7 @@ class Ads extends Base_Controller
         $product_price = $this->input->post('price');
         $product_category = $this->input->post('category');
         $product_city = $this->input->post('city');
-        $user_id = 1;  // here i need to put session value once login register will done.
+        $user_id = $this->session->userdata('userId');  // here i need to put session value once login register will done.
         
         // Upload Ads Image
         $Filename = $_FILES['file']['name'];

@@ -67,7 +67,7 @@
 								</a>
 							</li>
 							<li class="tg-active">
-								<a href="<?php echo base_url('Seller/logout'); ?>">
+								<a href="<?php echo base_url('Authentification/logout2') ?>">
 									<i class="icon-cog"></i>
 									<span>Logout</span>
 								</a>
