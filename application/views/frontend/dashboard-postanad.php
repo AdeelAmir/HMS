@@ -44,17 +44,70 @@
 			*************************************-->
 			<section class="tg-dbsectionspace tg-haslayout">
 				<div class="row">
-					<form class="tg-formtheme tg-formdashboard">
+					<?php
+						if(isset($success)){
+					?>
+							<div class="alert alert-success" role="alert">
+							 	<?php echo $success; ?>
+							</div>
+					<?php
+						}
+					?>
+					<form class="tg-formtheme tg-formdashboard" method="POST" action="<?php echo base_url('Ads/createAds'); ?>" enctype='multipart/form-data'>
 						<fieldset>
 							<div class="tg-postanad">
 								<div class="col-xs-12 col-sm-12 col-md-12 col-lg-7">
-
-
-								</div>
-
-								<div class="col-xs-12 col-sm-12 col-md-12 col-lg-5">
-
-
+									<div class="tg-dashboardbox">
+										<div class="tg-dashboardboxtitle">
+											<h2>Ads Post</h2>
+										</div>
+										<div class="tg-dashboardholder">
+											<div class="form-group">
+												<input type="text" name="name" class="form-control" placeholder="Product Name">
+												<input type="hidden" name="<?php echo $this->security->get_csrf_token_name(); ?>" value="<?php echo $this->security->get_csrf_hash(); ?>">
+											</div>
+											<div class="form-group">
+												<input type="number" name="price" class="form-control" placeholder="product Price">
+											</div>
+											<div class="form-group">
+												<select name="category" id="category" class="form-control">
+												<?php
+													foreach($Category as $cat)
+													{
+													?>
+														<option value="<?php echo $cat->id; ?>"><?php echo $cat->title; ?></option>
+													<?php
+													}
+												?>
+												</select>
+											</div>
+											<div class="form-group">
+												<select name="city" id="city" class="form-control">
+												<?php
+													foreach($City as $cat)
+													{
+													?>
+														<option value="<?php echo $cat->id; ?>"><?php echo $cat->title; ?></option>
+													<?php
+													}
+												?>
+												</select>
+											</div>
+											<div class="form-group">
+												<label class="tg-fileuploadlabel" for="tg-photogallery">
+													Choose Ads Image
+													<input type="file" name="file" />
+												</label>
+											</div>
+											<div class="form-group">
+												<label class="tg-fileuploadlabel" for="tg-photogallery">
+													Choose Video of 10sec
+													<input type="file" name="advideofile" accept="video/mp4,video/x-m4v,video/*" />
+												</label>
+											</div>
+											<button class="tg-btn" type="submit">Add Post</button>
+										</div>
+									</div>
 								</div>
 							</div>
 						</fieldset>
@@ -91,122 +144,6 @@
 	<!--************************************
 			Theme Modal Box Start
 	*************************************-->
-	<div class="modal fade tg-thememodal tg-categorymodal" tabindex="-1" role="dialog">
-		<div class="modal-dialog tg-thememodaldialog" role="document">
-			<button type="button" class="tg-close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-			<div class="modal-content tg-thememodalcontent">
-				<div class="tg-title">
-					<strong>Select Category</strong>
-				</div>
-				<div id="tg-dbcategoriesslider" class="tg-dbcategoriesslider tg-categories owl-carousel">
-					<div class="tg-category">
-						<div class="tg-categoryholder">
-							<figure><img src="images/icons/img-08.png" alt="image description"></figure>
-							<h3>Mobiles</h3>
-						</div>
-					</div>
-					<div class="tg-category">
-						<div class="tg-categoryholder">
-							<figure><img src="images/icons/img-09.png" alt="image description"></figure>
-							<h3>Electronics</h3>
-						</div>
-					</div>
-					<div class="tg-category">
-						<div class="tg-categoryholder">
-							<figure><img src="images/icons/img-10.png" alt="image description"></figure>
-							<h3>Vehicles</h3>
-						</div>
-					</div>
-					<div class="tg-category">
-						<div class="tg-categoryholder">
-							<figure><img src="images/icons/img-11.png" alt="image description"></figure>
-							<h3>Bikes</h3>
-						</div>
-					</div>
-					<div class="tg-category">
-						<div class="tg-categoryholder">
-							<figure><img src="images/icons/img-12.png" alt="image description"></figure>
-							<h3>Animals</h3>
-						</div>
-					</div>
-					<div class="tg-category">
-						<div class="tg-categoryholder">
-							<figure><img src="images/icons/img-13.png" alt="image description"></figure>
-							<h3>Furniture</h3>
-						</div>
-					</div>
-				</div>
-				<ul class="tg-subcategories">
-					<li>
-						<div class="tg-title">
-							<strong>Electronics</strong>
-						</div>
-						<div class=" tg-verticalscrollbar tg-dashboardscrollbar">
-							<ul>
-								<li class="tg-hassubcategories">Dishwashers</li>
-								<li class="tg-hassubcategories">Freezers</li>
-								<li class="tg-hassubcategories">Fridge Freezers</li>
-								<li class="tg-hassubcategories">Fans</li>
-								<li class="tg-hassubcategories">Air Conditioners</li>
-								<li class="tg-hassubcategories">Water Dispenser</li>
-								<li class="tg-hassubcategories">Microwave Ovens</li>
-								<li class="tg-hassubcategories">Refrigerators</li>
-								<li class="tg-hassubcategories">Hair Dryers</li>
-								<li class="tg-hassubcategories">Washing Machine</li>
-								<li class="tg-hassubcategories">dolor in reprehenderit</li>
-								<li class="tg-hassubcategories">in voluptate velit esse</li>
-								<li class="tg-hassubcategories">Dishwashers</li>
-								<li class="tg-hassubcategories">Freezers</li>
-								<li class="tg-hassubcategories">Fridge Freezers</li>
-								<li class="tg-hassubcategories">Fans</li>
-								<li class="tg-hassubcategories">Air Conditioners</li>
-								<li class="tg-hassubcategories">Water Dispenser</li>
-								<li class="tg-hassubcategories">Microwave Ovens</li>
-								<li class="tg-hassubcategories">Refrigerators</li>
-								<li class="tg-hassubcategories">Hair Dryers</li>
-								<li class="tg-hassubcategories">Washing Machine</li>
-								<li class="tg-hassubcategories">dolor in reprehenderit</li>
-								<li class="tg-hassubcategories">in voluptate velit esse</li>
-							</ul>
-						</div>
-					</li>
-					<li>
-						<div class="tg-title">
-							<strong>Air Conditioners</strong>
-						</div>
-						<div class=" tg-verticalscrollbar tg-dashboardscrollbar">
-							<ul>
-								<li>Voltas</li>
-								<li>Samsung</li>
-								<li>Daikin</li>
-								<li>LG</li>
-								<li>Whirlpool</li>
-								<li>Videocon</li>
-								<li>Blue Star</li>
-								<li>Hitachi</li>
-								<li>Haier</li>
-								<li>General</li>
-								<li>dolor in reprehenderit</li>
-								<li>in voluptate velit esse</li>
-								<li>Voltas</li>
-								<li>Samsung</li>
-								<li>Daikin</li>
-								<li>LG</li>
-								<li>Whirlpool</li>
-								<li>Videocon</li>
-								<li>Blue Star</li>
-								<li>Hitachi</li>
-								<li>Haier</li>
-								<li>General</li>
-								<li>dolor in reprehenderit</li>
-								<li>in voluptate velit esse</li>
-							</ul>
-						</div>
-					</li>
-				</ul>
-			</div>
-		</div>
-	</div>
 	<!--************************************
 			Theme Modal Box End
 	*************************************-->

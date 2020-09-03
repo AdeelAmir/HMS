@@ -56,7 +56,7 @@
 											<ul>
 												<!-- <li class="tg-active"><a href="_.php">All Ads (50)</a></li> -->
 												<!-- <li><a href="_.php">Featured (12)</a></li> -->
-												<li><a href="javascript:void(0);" data-category="active">Active (42)</a></li>
+												<li><a href="javascript:void(0);" data-category="active">Active (<?php echo count($Ads);  ?>)</a></li>
 												<!-- <li><a href="javascript:void(0);" data-category="inactive">Inactive (03)</a></li>
 												<li><a href="javascript:void(0);" data-category="sold">Sold (02)</a></li>
 												<li><a href="javascript:void(0);" data-category="expired">Expired (01)</a></li>
@@ -73,78 +73,35 @@
 														</span>
 													</th>
 													<th>Photo</th>
-													<th>Title</th>
+													<th>Product Name</th>
+													<th>Product Price</th>
 													<th>Category</th>
-													<th>Featured</th>
-													<th>Ad Status</th>
-													<th>Price &amp; Location</th>
-													<th>Date</th>
-													<th>Action</th>
+													<th>City</th>
 												</tr>
 											</thead>
 											<tbody>
-												<tr data-category="active">
-													<td data-title="">
-														<span class="tg-checkbox">
-															<input id="tg-adone" type="checkbox" name="myads" value="myadone">
-															<label for="tg-adone"></label>
-														</span>
-													</td>
-													<td data-title="Photo"><img src="images/thumbnail/img-06.jpg" alt="image description"></td>
-													<td data-title="Title">
-														<h3>A+ HP probook 6560b core i3 2nd generation</h3>
-														<span>Ad ID: ng3D5hAMHPajQrM</span>
-													</td>
-													<td data-title="Category"><span class="tg-adcategories">Laptops &amp; PCs</span></td>
-													<td data-title="Featured">Yes</td>
-													<td data-title="Ad Status"><span class="tg-adstatus tg-adstatusactive">active</span></td>
-													<td data-title="Price &amp; Location">
-														<h3>$200</h3>
-														<address>location  44-46 Morningside North Road Edinburgh, Scotland, EH10 4BF</address>
-													</td>
-													<td data-title="Date">
-														<time datetime="2017-08-08">Jun 27, 2017</time>
-														<span>Published</span>
-													</td>
-													<td data-title="Action">
-														<div class="tg-btnsactions">
-															<a class="tg-btnaction tg-btnactionview" href="javascript:void(0);"><i class="fa fa-eye"></i></a>
-															<a class="tg-btnaction tg-btnactionedit" href="javascript:void(0);"><i class="fa fa-pencil"></i></a>
-															<a class="tg-btnaction tg-btnactiondelete" href="javascript:void(0);"><i class="fa fa-trash"></i></a>
-														</div>
-													</td>
-												</tr>
-												<tr data-category="active">
-													<td data-title="">
-														<span class="tg-checkbox">
-															<input id="tg-adfive" type="checkbox" name="myads" value="myadfive">
-															<label for="tg-adfive"></label>
-														</span>
-													</td>
-													<td data-title="Photo"><img src="images/thumbnail/img-10.jpg" alt="image description"></td>
-													<td data-title="Title">
-														<h3>A+ HP probook 6560b core i3 2nd generation</h3>
-														<span>Ad ID: ng3D5hAMHPajQrM</span>
-													</td>
-													<td data-title="Category">Laptops &amp; PCs</td>
-													<td data-title="Featured">Yes</td>
-													<td data-title="Ad Status"><span class="tg-adstatus tg-adstatusactive">active</span></td>
-													<td data-title="Price &amp; Location">
-														<h3>$200</h3>
-														<address>location  44-46 Morningside North Road Edinburgh, Scotland, EH10 4BF</address>
-													</td>
-													<td data-title="Date">
-														<time datetime="2017-08-08">Jun 27, 2017</time>
-														<span>Published</span>
-													</td>
-													<td data-title="Action">
-														<div class="tg-btnsactions">
-															<a class="tg-btnaction tg-btnactionview" href="javascript:void(0);"><i class="fa fa-eye"></i></a>
-															<a class="tg-btnaction tg-btnactionedit" href="javascript:void(0);"><i class="fa fa-pencil"></i></a>
-															<a class="tg-btnaction tg-btnactiondelete" href="javascript:void(0);"><i class="fa fa-trash"></i></a>
-														</div>
-													</td>
-												</tr>
+												<?php
+													foreach($Ads as $ads)
+													{
+												?>
+														<tr data-category="active">
+															<td data-title="">
+																<span class="tg-checkbox">
+																	<input id="tg-adone" type="checkbox" name="myads" value="myadone">
+																	<label for="tg-adone"></label>
+																</span>
+															</td>
+															<td data-title="Photo"><img style="width:100px;height:100px;" src="<?php echo assets_url('uploads/'.$ads->ad_picture); ?>" alt="image description"></td>
+															<td data-title="Product Name">
+																<h3><?php echo $ads->product_name; ?></h3>
+															</td>
+															<td data-title="Product Price"><span class="tg-adcategories"><?php echo $ads->product_price; ?></span></td>
+															<td data-title="Category"><?php echo $ads->CategoryTitle; ?></td>
+															<td data-title="City"><?php echo $ads->CityTitle; ?></td>
+														</tr>
+												<?php
+													}
+												?>
 											</tbody>
 										</table>
 									</div>

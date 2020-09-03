@@ -10,16 +10,24 @@ class Seller extends Base_Controller
         parent::__construct();
         $this->load->library('session');
         $this->load->helper('cookie');
+        $this->load->model('Category_model', 'category');
+        $this->load->model('City_model', 'city');
+        $this->load->model('Ads_model', 'ads');
     }
 
     public function myads()
     {
-        $this->load->view('frontend/dashboard-myads.php');
+        $Data['Ads'] = $this->ads->Read();
+        $this->load->view('frontend/dashboard-myads.php', $Data);
     }
+
     public function postads()
     {
-        $this->load->view('frontend/dashboard-postanad.php');
+        $Data['Category'] = $this->category->Read();
+        $Data['City'] = $this->city->Read();
+        $this->load->view('frontend/dashboard-postanad.php', $Data);
     }
+
     public function profilesetting()
     {
         $this->load->view('frontend/dashboard-profile-setting.php');

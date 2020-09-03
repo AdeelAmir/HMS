@@ -36,17 +36,7 @@ class City_model extends CI_Model
             return false;
         }
     }
-
-    // public function UpdateDoctor($Id, $data){
-    //     $this->db->where('id', $Id);
-    //     if ($this->db->update('doctors', $data)){
-    //         return true;
-    //     }
-    //     else{
-    //         return false;
-    //     }
-    // }
-
+    
     public function Read($Id = ''){
         if($Id != ''){
             $sql = "SELECT * FROM city A WHERE A.id = ? AND A.is_active = 1";
