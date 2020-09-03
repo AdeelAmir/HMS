@@ -61,7 +61,7 @@
 								</a>
 							</li>
 							<li class="tg-active">
-								<a href="<?php echo base_url('Seller/myads'); ?>">
+								<a href="<?php echo base_url('Seller/postads'); ?>">
 									<i class="icon-cog"></i>
 									<span>Create Ads</span>
 								</a>

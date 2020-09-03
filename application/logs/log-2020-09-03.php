@@ -6582,3 +6582,600 @@ INFO - 2020-09-03 10:18:53 --> CSRF cookie sent
 INFO - 2020-09-03 10:18:53 --> Input Class Initialized
 INFO - 2020-09-03 10:18:53 --> Language Class Initialized
 ERROR - 2020-09-03 10:18:53 --> 404 Page Not Found: BuySell/images
+INFO - 2020-09-03 10:43:59 --> Config Class Initialized
+INFO - 2020-09-03 10:43:59 --> Hooks Class Initialized
+DEBUG - 2020-09-03 10:43:59 --> UTF-8 Support Enabled
+INFO - 2020-09-03 10:43:59 --> Utf8 Class Initialized
+INFO - 2020-09-03 10:43:59 --> URI Class Initialized
+INFO - 2020-09-03 10:43:59 --> Router Class Initialized
+INFO - 2020-09-03 10:43:59 --> Output Class Initialized
+INFO - 2020-09-03 10:43:59 --> Security Class Initialized
+DEBUG - 2020-09-03 10:43:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 10:43:59 --> CSRF cookie sent
+INFO - 2020-09-03 10:43:59 --> Input Class Initialized
+INFO - 2020-09-03 10:43:59 --> Language Class Initialized
+INFO - 2020-09-03 10:43:59 --> Loader Class Initialized
+INFO - 2020-09-03 10:43:59 --> Helper loaded: url_helper
+INFO - 2020-09-03 10:43:59 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 10:43:59 --> Helper loaded: form_helper
+INFO - 2020-09-03 10:43:59 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 10:43:59 --> Database Driver Class Initialized
+INFO - 2020-09-03 10:43:59 --> Controller Class Initialized
+INFO - 2020-09-03 10:43:59 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 10:43:59 --> Helper loaded: cookie_helper
+INFO - 2020-09-03 10:43:59 --> File loaded: C:\xampp\htdocs\HMS\application\views\frontend/dashboard-postanad.php
+INFO - 2020-09-03 10:43:59 --> Final output sent to browser
+DEBUG - 2020-09-03 10:43:59 --> Total execution time: 0.7623
+INFO - 2020-09-03 10:44:00 --> Config Class Initialized
+INFO - 2020-09-03 10:44:00 --> Config Class Initialized
+INFO - 2020-09-03 10:44:00 --> Config Class Initialized
+INFO - 2020-09-03 10:44:00 --> Hooks Class Initialized
+INFO - 2020-09-03 10:44:00 --> Hooks Class Initialized
+INFO - 2020-09-03 10:44:00 --> Config Class Initialized
+INFO - 2020-09-03 10:44:00 --> Hooks Class Initialized
+DEBUG - 2020-09-03 10:44:00 --> UTF-8 Support Enabled
+DEBUG - 2020-09-03 10:44:00 --> UTF-8 Support Enabled
+INFO - 2020-09-03 10:44:00 --> Utf8 Class Initialized
+INFO - 2020-09-03 10:44:00 --> Utf8 Class Initialized
+INFO - 2020-09-03 10:44:00 --> URI Class Initialized
+INFO - 2020-09-03 10:44:00 --> URI Class Initialized
+DEBUG - 2020-09-03 10:44:00 --> UTF-8 Support Enabled
+INFO - 2020-09-03 10:44:00 --> Utf8 Class Initialized
+INFO - 2020-09-03 10:44:00 --> Router Class Initialized
+INFO - 2020-09-03 10:44:00 --> Router Class Initialized
+INFO - 2020-09-03 10:44:00 --> URI Class Initialized
+INFO - 2020-09-03 10:44:00 --> Hooks Class Initialized
+INFO - 2020-09-03 10:44:00 --> Output Class Initialized
+INFO - 2020-09-03 10:44:00 --> Output Class Initialized
+INFO - 2020-09-03 10:44:00 --> Security Class Initialized
+INFO - 2020-09-03 10:44:00 --> Security Class Initialized
+INFO - 2020-09-03 10:44:00 --> Router Class Initialized
+DEBUG - 2020-09-03 10:44:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 10:44:00 --> CSRF cookie sent
+INFO - 2020-09-03 10:44:00 --> Input Class Initialized
+INFO - 2020-09-03 10:44:00 --> Output Class Initialized
+INFO - 2020-09-03 10:44:00 --> Language Class Initialized
+INFO - 2020-09-03 10:44:00 --> Security Class Initialized
+ERROR - 2020-09-03 10:44:00 --> 404 Page Not Found: Seller/images
+DEBUG - 2020-09-03 10:44:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 10:44:00 --> CSRF cookie sent
+INFO - 2020-09-03 10:44:00 --> Input Class Initialized
+INFO - 2020-09-03 10:44:00 --> Language Class Initialized
+ERROR - 2020-09-03 10:44:00 --> 404 Page Not Found: Seller/images
+DEBUG - 2020-09-03 10:44:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 10:44:00 --> CSRF cookie sent
+INFO - 2020-09-03 10:44:00 --> Input Class Initialized
+INFO - 2020-09-03 10:44:00 --> Language Class Initialized
+ERROR - 2020-09-03 10:44:00 --> 404 Page Not Found: Seller/images
+INFO - 2020-09-03 10:44:00 --> Config Class Initialized
+INFO - 2020-09-03 10:44:00 --> Hooks Class Initialized
+DEBUG - 2020-09-03 10:44:00 --> UTF-8 Support Enabled
+INFO - 2020-09-03 10:44:00 --> Utf8 Class Initialized
+INFO - 2020-09-03 10:44:00 --> Config Class Initialized
+INFO - 2020-09-03 10:44:00 --> Hooks Class Initialized
+INFO - 2020-09-03 10:44:00 --> URI Class Initialized
+INFO - 2020-09-03 10:44:00 --> Router Class Initialized
+DEBUG - 2020-09-03 10:44:00 --> UTF-8 Support Enabled
+INFO - 2020-09-03 10:44:00 --> Utf8 Class Initialized
+INFO - 2020-09-03 10:44:00 --> Output Class Initialized
+INFO - 2020-09-03 10:44:00 --> URI Class Initialized
+INFO - 2020-09-03 10:44:00 --> Security Class Initialized
+INFO - 2020-09-03 10:44:00 --> Router Class Initialized
+DEBUG - 2020-09-03 10:44:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 10:44:00 --> CSRF cookie sent
+INFO - 2020-09-03 10:44:00 --> Input Class Initialized
+INFO - 2020-09-03 10:44:00 --> Output Class Initialized
+INFO - 2020-09-03 10:44:00 --> Language Class Initialized
+INFO - 2020-09-03 10:44:00 --> Security Class Initialized
+ERROR - 2020-09-03 10:44:00 --> 404 Page Not Found: Seller/images
+DEBUG - 2020-09-03 10:44:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-09-03 10:44:00 --> UTF-8 Support Enabled
+INFO - 2020-09-03 10:44:00 --> Utf8 Class Initialized
+INFO - 2020-09-03 10:44:00 --> URI Class Initialized
+INFO - 2020-09-03 10:44:00 --> Router Class Initialized
+INFO - 2020-09-03 10:44:00 --> Output Class Initialized
+INFO - 2020-09-03 10:44:00 --> Security Class Initialized
+DEBUG - 2020-09-03 10:44:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 10:44:00 --> CSRF cookie sent
+INFO - 2020-09-03 10:44:00 --> Input Class Initialized
+INFO - 2020-09-03 10:44:00 --> Language Class Initialized
+ERROR - 2020-09-03 10:44:00 --> 404 Page Not Found: Seller/images
+INFO - 2020-09-03 10:44:00 --> CSRF cookie sent
+INFO - 2020-09-03 10:44:00 --> Input Class Initialized
+INFO - 2020-09-03 10:44:00 --> Language Class Initialized
+ERROR - 2020-09-03 10:44:00 --> 404 Page Not Found: Seller/images
+INFO - 2020-09-03 10:51:28 --> Config Class Initialized
+INFO - 2020-09-03 10:51:28 --> Hooks Class Initialized
+DEBUG - 2020-09-03 10:51:28 --> UTF-8 Support Enabled
+INFO - 2020-09-03 10:51:28 --> Utf8 Class Initialized
+INFO - 2020-09-03 10:51:28 --> URI Class Initialized
+INFO - 2020-09-03 10:51:28 --> Router Class Initialized
+INFO - 2020-09-03 10:51:28 --> Output Class Initialized
+INFO - 2020-09-03 10:51:28 --> Security Class Initialized
+DEBUG - 2020-09-03 10:51:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 10:51:28 --> CSRF cookie sent
+INFO - 2020-09-03 10:51:28 --> Input Class Initialized
+INFO - 2020-09-03 10:51:28 --> Language Class Initialized
+INFO - 2020-09-03 10:51:28 --> Loader Class Initialized
+INFO - 2020-09-03 10:51:28 --> Helper loaded: url_helper
+INFO - 2020-09-03 10:51:28 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 10:51:28 --> Helper loaded: form_helper
+INFO - 2020-09-03 10:51:28 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 10:51:29 --> Database Driver Class Initialized
+INFO - 2020-09-03 10:51:29 --> Controller Class Initialized
+INFO - 2020-09-03 10:51:29 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 10:51:29 --> Helper loaded: cookie_helper
+INFO - 2020-09-03 10:51:29 --> File loaded: C:\xampp\htdocs\HMS\application\views\frontend/dashboard-profile-setting.php
+INFO - 2020-09-03 10:51:29 --> Final output sent to browser
+DEBUG - 2020-09-03 10:51:29 --> Total execution time: 0.5805
+INFO - 2020-09-03 10:51:30 --> Config Class Initialized
+INFO - 2020-09-03 10:51:30 --> Hooks Class Initialized
+DEBUG - 2020-09-03 10:51:30 --> UTF-8 Support Enabled
+INFO - 2020-09-03 10:51:30 --> Utf8 Class Initialized
+INFO - 2020-09-03 10:51:30 --> URI Class Initialized
+INFO - 2020-09-03 10:51:31 --> Router Class Initialized
+INFO - 2020-09-03 10:51:31 --> Output Class Initialized
+INFO - 2020-09-03 10:51:31 --> Security Class Initialized
+DEBUG - 2020-09-03 10:51:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 10:51:31 --> CSRF cookie sent
+INFO - 2020-09-03 10:51:31 --> Input Class Initialized
+INFO - 2020-09-03 10:51:31 --> Language Class Initialized
+INFO - 2020-09-03 10:51:31 --> Loader Class Initialized
+INFO - 2020-09-03 10:51:31 --> Helper loaded: url_helper
+INFO - 2020-09-03 10:51:31 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 10:51:31 --> Helper loaded: form_helper
+INFO - 2020-09-03 10:51:31 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 10:51:31 --> Database Driver Class Initialized
+INFO - 2020-09-03 10:51:31 --> Controller Class Initialized
+INFO - 2020-09-03 10:51:31 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 10:51:31 --> Helper loaded: cookie_helper
+INFO - 2020-09-03 10:51:31 --> File loaded: C:\xampp\htdocs\HMS\application\views\frontend/dashboard-myads.php
+INFO - 2020-09-03 10:51:31 --> Final output sent to browser
+DEBUG - 2020-09-03 10:51:31 --> Total execution time: 0.5919
+INFO - 2020-09-03 10:51:31 --> Config Class Initialized
+INFO - 2020-09-03 10:51:31 --> Hooks Class Initialized
+INFO - 2020-09-03 10:51:31 --> Config Class Initialized
+INFO - 2020-09-03 10:51:31 --> Hooks Class Initialized
+DEBUG - 2020-09-03 10:51:31 --> UTF-8 Support Enabled
+INFO - 2020-09-03 10:51:31 --> Utf8 Class Initialized
+INFO - 2020-09-03 10:51:31 --> URI Class Initialized
+INFO - 2020-09-03 10:51:31 --> Router Class Initialized
+INFO - 2020-09-03 10:51:31 --> Output Class Initialized
+INFO - 2020-09-03 10:51:31 --> Security Class Initialized
+DEBUG - 2020-09-03 10:51:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 10:51:31 --> CSRF cookie sent
+INFO - 2020-09-03 10:51:31 --> Input Class Initialized
+INFO - 2020-09-03 10:51:31 --> Language Class Initialized
+ERROR - 2020-09-03 10:51:31 --> 404 Page Not Found: Seller/images
+DEBUG - 2020-09-03 10:51:31 --> UTF-8 Support Enabled
+INFO - 2020-09-03 10:51:31 --> Utf8 Class Initialized
+INFO - 2020-09-03 10:51:31 --> URI Class Initialized
+INFO - 2020-09-03 10:51:31 --> Router Class Initialized
+INFO - 2020-09-03 10:51:32 --> Output Class Initialized
+INFO - 2020-09-03 10:51:32 --> Security Class Initialized
+DEBUG - 2020-09-03 10:51:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 10:51:32 --> CSRF cookie sent
+INFO - 2020-09-03 10:51:32 --> Input Class Initialized
+INFO - 2020-09-03 10:51:32 --> Language Class Initialized
+ERROR - 2020-09-03 10:51:32 --> 404 Page Not Found: Seller/images
+INFO - 2020-09-03 10:51:33 --> Config Class Initialized
+INFO - 2020-09-03 10:51:33 --> Hooks Class Initialized
+DEBUG - 2020-09-03 10:51:33 --> UTF-8 Support Enabled
+INFO - 2020-09-03 10:51:33 --> Utf8 Class Initialized
+INFO - 2020-09-03 10:51:33 --> URI Class Initialized
+INFO - 2020-09-03 10:51:33 --> Router Class Initialized
+INFO - 2020-09-03 10:51:33 --> Output Class Initialized
+INFO - 2020-09-03 10:51:33 --> Security Class Initialized
+DEBUG - 2020-09-03 10:51:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 10:51:34 --> CSRF cookie sent
+INFO - 2020-09-03 10:51:34 --> Input Class Initialized
+INFO - 2020-09-03 10:51:34 --> Language Class Initialized
+INFO - 2020-09-03 10:51:34 --> Loader Class Initialized
+INFO - 2020-09-03 10:51:34 --> Helper loaded: url_helper
+INFO - 2020-09-03 10:51:34 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 10:51:34 --> Helper loaded: form_helper
+INFO - 2020-09-03 10:51:34 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 10:51:34 --> Database Driver Class Initialized
+INFO - 2020-09-03 10:51:34 --> Config Class Initialized
+INFO - 2020-09-03 10:51:34 --> Hooks Class Initialized
+DEBUG - 2020-09-03 10:51:34 --> UTF-8 Support Enabled
+INFO - 2020-09-03 10:51:34 --> Utf8 Class Initialized
+INFO - 2020-09-03 10:51:34 --> URI Class Initialized
+INFO - 2020-09-03 10:51:34 --> Router Class Initialized
+INFO - 2020-09-03 10:51:34 --> Output Class Initialized
+INFO - 2020-09-03 10:51:34 --> Security Class Initialized
+DEBUG - 2020-09-03 10:51:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 10:51:34 --> CSRF cookie sent
+INFO - 2020-09-03 10:51:34 --> Input Class Initialized
+INFO - 2020-09-03 10:51:34 --> Language Class Initialized
+INFO - 2020-09-03 10:51:34 --> Loader Class Initialized
+INFO - 2020-09-03 10:51:34 --> Helper loaded: url_helper
+INFO - 2020-09-03 10:51:34 --> Controller Class Initialized
+INFO - 2020-09-03 10:51:34 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 10:51:34 --> Helper loaded: cookie_helper
+INFO - 2020-09-03 10:51:34 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 10:51:34 --> Helper loaded: form_helper
+INFO - 2020-09-03 10:51:34 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 10:51:34 --> Database Driver Class Initialized
+INFO - 2020-09-03 10:51:34 --> Controller Class Initialized
+INFO - 2020-09-03 10:51:34 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 10:51:34 --> Helper loaded: cookie_helper
+INFO - 2020-09-03 10:51:34 --> File loaded: C:\xampp\htdocs\HMS\application\views\frontend/dashboard-myads.php
+INFO - 2020-09-03 10:51:34 --> Final output sent to browser
+INFO - 2020-09-03 10:51:34 --> Config Class Initialized
+INFO - 2020-09-03 10:51:34 --> Config Class Initialized
+INFO - 2020-09-03 10:51:34 --> Hooks Class Initialized
+INFO - 2020-09-03 10:51:34 --> Hooks Class Initialized
+DEBUG - 2020-09-03 10:51:34 --> Total execution time: 0.2823
+DEBUG - 2020-09-03 10:51:34 --> UTF-8 Support Enabled
+DEBUG - 2020-09-03 10:51:34 --> UTF-8 Support Enabled
+INFO - 2020-09-03 10:51:34 --> Utf8 Class Initialized
+INFO - 2020-09-03 10:51:34 --> URI Class Initialized
+INFO - 2020-09-03 10:51:34 --> Router Class Initialized
+INFO - 2020-09-03 10:51:34 --> Output Class Initialized
+INFO - 2020-09-03 10:51:34 --> Security Class Initialized
+DEBUG - 2020-09-03 10:51:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 10:51:34 --> CSRF cookie sent
+INFO - 2020-09-03 10:51:34 --> Input Class Initialized
+INFO - 2020-09-03 10:51:34 --> Language Class Initialized
+ERROR - 2020-09-03 10:51:34 --> 404 Page Not Found: Seller/images
+INFO - 2020-09-03 10:51:34 --> Utf8 Class Initialized
+INFO - 2020-09-03 10:51:34 --> URI Class Initialized
+INFO - 2020-09-03 10:51:34 --> Router Class Initialized
+INFO - 2020-09-03 10:51:34 --> Output Class Initialized
+INFO - 2020-09-03 10:51:34 --> Security Class Initialized
+DEBUG - 2020-09-03 10:51:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 10:51:34 --> CSRF cookie sent
+INFO - 2020-09-03 10:51:34 --> Input Class Initialized
+INFO - 2020-09-03 10:51:34 --> Language Class Initialized
+ERROR - 2020-09-03 10:51:34 --> 404 Page Not Found: Seller/images
+INFO - 2020-09-03 10:51:36 --> Config Class Initialized
+INFO - 2020-09-03 10:51:36 --> Hooks Class Initialized
+DEBUG - 2020-09-03 10:51:36 --> UTF-8 Support Enabled
+INFO - 2020-09-03 10:51:36 --> Utf8 Class Initialized
+INFO - 2020-09-03 10:51:36 --> URI Class Initialized
+INFO - 2020-09-03 10:51:36 --> Router Class Initialized
+INFO - 2020-09-03 10:51:36 --> Output Class Initialized
+INFO - 2020-09-03 10:51:36 --> Security Class Initialized
+DEBUG - 2020-09-03 10:51:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 10:51:36 --> CSRF cookie sent
+INFO - 2020-09-03 10:51:36 --> Input Class Initialized
+INFO - 2020-09-03 10:51:37 --> Language Class Initialized
+INFO - 2020-09-03 10:51:37 --> Loader Class Initialized
+INFO - 2020-09-03 10:51:37 --> Helper loaded: url_helper
+INFO - 2020-09-03 10:51:37 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 10:51:37 --> Helper loaded: form_helper
+INFO - 2020-09-03 10:51:37 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 10:51:37 --> Database Driver Class Initialized
+INFO - 2020-09-03 10:51:37 --> Controller Class Initialized
+INFO - 2020-09-03 10:51:37 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 10:51:37 --> Helper loaded: cookie_helper
+INFO - 2020-09-03 10:51:37 --> File loaded: C:\xampp\htdocs\HMS\application\views\frontend/dashboard-myads.php
+INFO - 2020-09-03 10:51:37 --> Final output sent to browser
+DEBUG - 2020-09-03 10:51:37 --> Total execution time: 0.6424
+INFO - 2020-09-03 10:51:37 --> Config Class Initialized
+INFO - 2020-09-03 10:51:37 --> Hooks Class Initialized
+DEBUG - 2020-09-03 10:51:37 --> UTF-8 Support Enabled
+INFO - 2020-09-03 10:51:37 --> Utf8 Class Initialized
+INFO - 2020-09-03 10:51:37 --> URI Class Initialized
+INFO - 2020-09-03 10:51:37 --> Config Class Initialized
+INFO - 2020-09-03 10:51:37 --> Hooks Class Initialized
+INFO - 2020-09-03 10:51:37 --> Router Class Initialized
+INFO - 2020-09-03 10:51:37 --> Output Class Initialized
+DEBUG - 2020-09-03 10:51:37 --> UTF-8 Support Enabled
+INFO - 2020-09-03 10:51:37 --> Utf8 Class Initialized
+INFO - 2020-09-03 10:51:37 --> URI Class Initialized
+INFO - 2020-09-03 10:51:37 --> Router Class Initialized
+INFO - 2020-09-03 10:51:37 --> Output Class Initialized
+INFO - 2020-09-03 10:51:37 --> Security Class Initialized
+DEBUG - 2020-09-03 10:51:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 10:51:37 --> CSRF cookie sent
+INFO - 2020-09-03 10:51:37 --> Input Class Initialized
+INFO - 2020-09-03 10:51:37 --> Security Class Initialized
+DEBUG - 2020-09-03 10:51:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 10:51:37 --> CSRF cookie sent
+INFO - 2020-09-03 10:51:37 --> Input Class Initialized
+INFO - 2020-09-03 10:51:37 --> Language Class Initialized
+ERROR - 2020-09-03 10:51:37 --> 404 Page Not Found: Seller/images
+INFO - 2020-09-03 10:51:37 --> Language Class Initialized
+ERROR - 2020-09-03 10:51:37 --> 404 Page Not Found: Seller/images
+INFO - 2020-09-03 10:52:10 --> Config Class Initialized
+INFO - 2020-09-03 10:52:10 --> Hooks Class Initialized
+DEBUG - 2020-09-03 10:52:10 --> UTF-8 Support Enabled
+INFO - 2020-09-03 10:52:10 --> Utf8 Class Initialized
+INFO - 2020-09-03 10:52:10 --> URI Class Initialized
+INFO - 2020-09-03 10:52:10 --> Router Class Initialized
+INFO - 2020-09-03 10:52:10 --> Output Class Initialized
+INFO - 2020-09-03 10:52:11 --> Security Class Initialized
+DEBUG - 2020-09-03 10:52:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 10:52:11 --> CSRF cookie sent
+INFO - 2020-09-03 10:52:11 --> Input Class Initialized
+INFO - 2020-09-03 10:52:11 --> Language Class Initialized
+INFO - 2020-09-03 10:52:11 --> Loader Class Initialized
+INFO - 2020-09-03 10:52:11 --> Helper loaded: url_helper
+INFO - 2020-09-03 10:52:11 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 10:52:11 --> Helper loaded: form_helper
+INFO - 2020-09-03 10:52:11 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 10:52:11 --> Database Driver Class Initialized
+INFO - 2020-09-03 10:52:11 --> Controller Class Initialized
+INFO - 2020-09-03 10:52:11 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 10:52:11 --> Helper loaded: cookie_helper
+INFO - 2020-09-03 10:52:11 --> File loaded: C:\xampp\htdocs\HMS\application\views\frontend/dashboard-profile-setting.php
+INFO - 2020-09-03 10:52:11 --> Final output sent to browser
+DEBUG - 2020-09-03 10:52:11 --> Total execution time: 1.0270
+INFO - 2020-09-03 10:52:12 --> Config Class Initialized
+INFO - 2020-09-03 10:52:12 --> Hooks Class Initialized
+DEBUG - 2020-09-03 10:52:12 --> UTF-8 Support Enabled
+INFO - 2020-09-03 10:52:12 --> Utf8 Class Initialized
+INFO - 2020-09-03 10:52:12 --> URI Class Initialized
+INFO - 2020-09-03 10:52:12 --> Router Class Initialized
+INFO - 2020-09-03 10:52:12 --> Output Class Initialized
+INFO - 2020-09-03 10:52:12 --> Security Class Initialized
+DEBUG - 2020-09-03 10:52:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 10:52:12 --> CSRF cookie sent
+INFO - 2020-09-03 10:52:12 --> Input Class Initialized
+INFO - 2020-09-03 10:52:12 --> Language Class Initialized
+INFO - 2020-09-03 10:52:12 --> Loader Class Initialized
+INFO - 2020-09-03 10:52:12 --> Helper loaded: url_helper
+INFO - 2020-09-03 10:52:12 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 10:52:12 --> Helper loaded: form_helper
+INFO - 2020-09-03 10:52:12 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 10:52:12 --> Database Driver Class Initialized
+INFO - 2020-09-03 10:52:12 --> Controller Class Initialized
+INFO - 2020-09-03 10:52:12 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 10:52:12 --> Helper loaded: cookie_helper
+INFO - 2020-09-03 10:52:12 --> File loaded: C:\xampp\htdocs\HMS\application\views\frontend/dashboard-myads.php
+INFO - 2020-09-03 10:52:12 --> Final output sent to browser
+DEBUG - 2020-09-03 10:52:12 --> Total execution time: 0.4856
+INFO - 2020-09-03 10:52:12 --> Config Class Initialized
+INFO - 2020-09-03 10:52:12 --> Hooks Class Initialized
+INFO - 2020-09-03 10:52:12 --> Config Class Initialized
+INFO - 2020-09-03 10:52:12 --> Hooks Class Initialized
+DEBUG - 2020-09-03 10:52:12 --> UTF-8 Support Enabled
+INFO - 2020-09-03 10:52:12 --> Utf8 Class Initialized
+INFO - 2020-09-03 10:52:12 --> URI Class Initialized
+DEBUG - 2020-09-03 10:52:12 --> UTF-8 Support Enabled
+INFO - 2020-09-03 10:52:12 --> Router Class Initialized
+INFO - 2020-09-03 10:52:12 --> Utf8 Class Initialized
+INFO - 2020-09-03 10:52:12 --> URI Class Initialized
+INFO - 2020-09-03 10:52:12 --> Output Class Initialized
+INFO - 2020-09-03 10:52:12 --> Router Class Initialized
+INFO - 2020-09-03 10:52:12 --> Security Class Initialized
+INFO - 2020-09-03 10:52:12 --> Output Class Initialized
+DEBUG - 2020-09-03 10:52:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 10:52:12 --> Security Class Initialized
+INFO - 2020-09-03 10:52:12 --> CSRF cookie sent
+INFO - 2020-09-03 10:52:12 --> Input Class Initialized
+INFO - 2020-09-03 10:52:12 --> Language Class Initialized
+DEBUG - 2020-09-03 10:52:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 10:52:12 --> CSRF cookie sent
+INFO - 2020-09-03 10:52:12 --> Input Class Initialized
+ERROR - 2020-09-03 10:52:12 --> 404 Page Not Found: Seller/images
+INFO - 2020-09-03 10:52:12 --> Language Class Initialized
+ERROR - 2020-09-03 10:52:12 --> 404 Page Not Found: Seller/images
+INFO - 2020-09-03 10:52:14 --> Config Class Initialized
+INFO - 2020-09-03 10:52:14 --> Hooks Class Initialized
+DEBUG - 2020-09-03 10:52:14 --> UTF-8 Support Enabled
+INFO - 2020-09-03 10:52:14 --> Utf8 Class Initialized
+INFO - 2020-09-03 10:52:14 --> URI Class Initialized
+INFO - 2020-09-03 10:52:14 --> Router Class Initialized
+INFO - 2020-09-03 10:52:14 --> Output Class Initialized
+INFO - 2020-09-03 10:52:14 --> Security Class Initialized
+DEBUG - 2020-09-03 10:52:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 10:52:14 --> CSRF cookie sent
+INFO - 2020-09-03 10:52:14 --> Input Class Initialized
+INFO - 2020-09-03 10:52:14 --> Language Class Initialized
+INFO - 2020-09-03 10:52:14 --> Loader Class Initialized
+INFO - 2020-09-03 10:52:14 --> Helper loaded: url_helper
+INFO - 2020-09-03 10:52:14 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 10:52:14 --> Helper loaded: form_helper
+INFO - 2020-09-03 10:52:14 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 10:52:14 --> Database Driver Class Initialized
+INFO - 2020-09-03 10:52:14 --> Controller Class Initialized
+INFO - 2020-09-03 10:52:14 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 10:52:14 --> Helper loaded: cookie_helper
+INFO - 2020-09-03 10:52:14 --> File loaded: C:\xampp\htdocs\HMS\application\views\frontend/dashboard-myads.php
+INFO - 2020-09-03 10:52:14 --> Final output sent to browser
+DEBUG - 2020-09-03 10:52:14 --> Total execution time: 0.4572
+INFO - 2020-09-03 10:52:14 --> Config Class Initialized
+INFO - 2020-09-03 10:52:14 --> Config Class Initialized
+INFO - 2020-09-03 10:52:14 --> Hooks Class Initialized
+INFO - 2020-09-03 10:52:14 --> Hooks Class Initialized
+DEBUG - 2020-09-03 10:52:14 --> UTF-8 Support Enabled
+DEBUG - 2020-09-03 10:52:14 --> UTF-8 Support Enabled
+INFO - 2020-09-03 10:52:14 --> Utf8 Class Initialized
+INFO - 2020-09-03 10:52:14 --> Utf8 Class Initialized
+INFO - 2020-09-03 10:52:14 --> URI Class Initialized
+INFO - 2020-09-03 10:52:14 --> URI Class Initialized
+INFO - 2020-09-03 10:52:14 --> Router Class Initialized
+INFO - 2020-09-03 10:52:14 --> Router Class Initialized
+INFO - 2020-09-03 10:52:14 --> Output Class Initialized
+INFO - 2020-09-03 10:52:14 --> Output Class Initialized
+INFO - 2020-09-03 10:52:14 --> Security Class Initialized
+INFO - 2020-09-03 10:52:14 --> Security Class Initialized
+DEBUG - 2020-09-03 10:52:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 10:52:14 --> CSRF cookie sent
+INFO - 2020-09-03 10:52:14 --> Input Class Initialized
+INFO - 2020-09-03 10:52:14 --> Language Class Initialized
+ERROR - 2020-09-03 10:52:14 --> 404 Page Not Found: Seller/images
+DEBUG - 2020-09-03 10:52:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 10:52:14 --> CSRF cookie sent
+INFO - 2020-09-03 10:52:14 --> Input Class Initialized
+INFO - 2020-09-03 10:52:14 --> Language Class Initialized
+ERROR - 2020-09-03 10:52:14 --> 404 Page Not Found: Seller/images
+INFO - 2020-09-03 10:53:12 --> Config Class Initialized
+INFO - 2020-09-03 10:53:12 --> Hooks Class Initialized
+DEBUG - 2020-09-03 10:53:12 --> UTF-8 Support Enabled
+INFO - 2020-09-03 10:53:12 --> Utf8 Class Initialized
+INFO - 2020-09-03 10:53:12 --> URI Class Initialized
+INFO - 2020-09-03 10:53:12 --> Router Class Initialized
+INFO - 2020-09-03 10:53:12 --> Output Class Initialized
+INFO - 2020-09-03 10:53:12 --> Security Class Initialized
+DEBUG - 2020-09-03 10:53:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 10:53:13 --> CSRF cookie sent
+INFO - 2020-09-03 10:53:13 --> Input Class Initialized
+INFO - 2020-09-03 10:53:13 --> Language Class Initialized
+INFO - 2020-09-03 10:53:13 --> Loader Class Initialized
+INFO - 2020-09-03 10:53:13 --> Helper loaded: url_helper
+INFO - 2020-09-03 10:53:13 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 10:53:13 --> Helper loaded: form_helper
+INFO - 2020-09-03 10:53:13 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 10:53:13 --> Database Driver Class Initialized
+INFO - 2020-09-03 10:53:13 --> Controller Class Initialized
+INFO - 2020-09-03 10:53:13 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 10:53:13 --> Helper loaded: cookie_helper
+INFO - 2020-09-03 10:53:13 --> File loaded: C:\xampp\htdocs\HMS\application\views\frontend/dashboard-myads.php
+INFO - 2020-09-03 10:53:13 --> Final output sent to browser
+DEBUG - 2020-09-03 10:53:13 --> Total execution time: 0.6511
+INFO - 2020-09-03 10:53:13 --> Config Class Initialized
+INFO - 2020-09-03 10:53:13 --> Hooks Class Initialized
+DEBUG - 2020-09-03 10:53:13 --> UTF-8 Support Enabled
+INFO - 2020-09-03 10:53:13 --> Utf8 Class Initialized
+INFO - 2020-09-03 10:53:13 --> URI Class Initialized
+INFO - 2020-09-03 10:53:13 --> Router Class Initialized
+INFO - 2020-09-03 10:53:13 --> Output Class Initialized
+INFO - 2020-09-03 10:53:13 --> Security Class Initialized
+DEBUG - 2020-09-03 10:53:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 10:53:13 --> CSRF cookie sent
+INFO - 2020-09-03 10:53:13 --> Input Class Initialized
+INFO - 2020-09-03 10:53:13 --> Language Class Initialized
+ERROR - 2020-09-03 10:53:13 --> 404 Page Not Found: Seller/images
+INFO - 2020-09-03 10:53:13 --> Config Class Initialized
+INFO - 2020-09-03 10:53:13 --> Hooks Class Initialized
+DEBUG - 2020-09-03 10:53:13 --> UTF-8 Support Enabled
+INFO - 2020-09-03 10:53:13 --> Utf8 Class Initialized
+INFO - 2020-09-03 10:53:13 --> URI Class Initialized
+INFO - 2020-09-03 10:53:13 --> Router Class Initialized
+INFO - 2020-09-03 10:53:13 --> Output Class Initialized
+INFO - 2020-09-03 10:53:13 --> Security Class Initialized
+DEBUG - 2020-09-03 10:53:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 10:53:13 --> CSRF cookie sent
+INFO - 2020-09-03 10:53:13 --> Input Class Initialized
+INFO - 2020-09-03 10:53:13 --> Language Class Initialized
+ERROR - 2020-09-03 10:53:13 --> 404 Page Not Found: Seller/images
+INFO - 2020-09-03 10:53:15 --> Config Class Initialized
+INFO - 2020-09-03 10:53:15 --> Hooks Class Initialized
+DEBUG - 2020-09-03 10:53:15 --> UTF-8 Support Enabled
+INFO - 2020-09-03 10:53:15 --> Utf8 Class Initialized
+INFO - 2020-09-03 10:53:15 --> URI Class Initialized
+INFO - 2020-09-03 10:53:15 --> Router Class Initialized
+INFO - 2020-09-03 10:53:15 --> Output Class Initialized
+INFO - 2020-09-03 10:53:15 --> Security Class Initialized
+DEBUG - 2020-09-03 10:53:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 10:53:15 --> CSRF cookie sent
+INFO - 2020-09-03 10:53:15 --> Input Class Initialized
+INFO - 2020-09-03 10:53:15 --> Language Class Initialized
+INFO - 2020-09-03 10:53:15 --> Loader Class Initialized
+INFO - 2020-09-03 10:53:15 --> Helper loaded: url_helper
+INFO - 2020-09-03 10:53:15 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 10:53:15 --> Helper loaded: form_helper
+INFO - 2020-09-03 10:53:15 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 10:53:15 --> Database Driver Class Initialized
+INFO - 2020-09-03 10:53:15 --> Controller Class Initialized
+INFO - 2020-09-03 10:53:15 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 10:53:15 --> Helper loaded: cookie_helper
+INFO - 2020-09-03 10:53:15 --> File loaded: C:\xampp\htdocs\HMS\application\views\frontend/dashboard-postanad.php
+INFO - 2020-09-03 10:53:15 --> Final output sent to browser
+INFO - 2020-09-03 10:53:16 --> Config Class Initialized
+INFO - 2020-09-03 10:53:16 --> Hooks Class Initialized
+DEBUG - 2020-09-03 10:53:16 --> UTF-8 Support Enabled
+INFO - 2020-09-03 10:53:16 --> Utf8 Class Initialized
+INFO - 2020-09-03 10:53:16 --> URI Class Initialized
+INFO - 2020-09-03 10:53:16 --> Router Class Initialized
+INFO - 2020-09-03 10:53:16 --> Output Class Initialized
+INFO - 2020-09-03 10:53:16 --> Security Class Initialized
+DEBUG - 2020-09-03 10:53:16 --> Total execution time: 0.7212
+DEBUG - 2020-09-03 10:53:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 10:53:16 --> CSRF cookie sent
+INFO - 2020-09-03 10:53:16 --> Input Class Initialized
+INFO - 2020-09-03 10:53:16 --> Language Class Initialized
+ERROR - 2020-09-03 10:53:16 --> 404 Page Not Found: Seller/images
+INFO - 2020-09-03 10:53:16 --> Config Class Initialized
+INFO - 2020-09-03 10:53:16 --> Config Class Initialized
+INFO - 2020-09-03 10:53:16 --> Hooks Class Initialized
+INFO - 2020-09-03 10:53:16 --> Config Class Initialized
+INFO - 2020-09-03 10:53:16 --> Hooks Class Initialized
+DEBUG - 2020-09-03 10:53:16 --> UTF-8 Support Enabled
+DEBUG - 2020-09-03 10:53:16 --> UTF-8 Support Enabled
+INFO - 2020-09-03 10:53:16 --> Utf8 Class Initialized
+INFO - 2020-09-03 10:53:16 --> Utf8 Class Initialized
+INFO - 2020-09-03 10:53:16 --> URI Class Initialized
+INFO - 2020-09-03 10:53:16 --> URI Class Initialized
+INFO - 2020-09-03 10:53:16 --> Router Class Initialized
+INFO - 2020-09-03 10:53:16 --> Router Class Initialized
+INFO - 2020-09-03 10:53:16 --> Output Class Initialized
+INFO - 2020-09-03 10:53:16 --> Output Class Initialized
+INFO - 2020-09-03 10:53:16 --> Security Class Initialized
+INFO - 2020-09-03 10:53:16 --> Security Class Initialized
+DEBUG - 2020-09-03 10:53:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 10:53:16 --> CSRF cookie sent
+INFO - 2020-09-03 10:53:16 --> Input Class Initialized
+DEBUG - 2020-09-03 10:53:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 10:53:16 --> CSRF cookie sent
+INFO - 2020-09-03 10:53:16 --> Language Class Initialized
+INFO - 2020-09-03 10:53:16 --> Input Class Initialized
+INFO - 2020-09-03 10:53:16 --> Config Class Initialized
+INFO - 2020-09-03 10:53:16 --> Hooks Class Initialized
+ERROR - 2020-09-03 10:53:16 --> 404 Page Not Found: Seller/images
+INFO - 2020-09-03 10:53:16 --> Language Class Initialized
+DEBUG - 2020-09-03 10:53:16 --> UTF-8 Support Enabled
+INFO - 2020-09-03 10:53:16 --> Utf8 Class Initialized
+ERROR - 2020-09-03 10:53:16 --> 404 Page Not Found: Seller/images
+INFO - 2020-09-03 10:53:16 --> URI Class Initialized
+INFO - 2020-09-03 10:53:16 --> Router Class Initialized
+INFO - 2020-09-03 10:53:16 --> Output Class Initialized
+INFO - 2020-09-03 10:53:16 --> Security Class Initialized
+DEBUG - 2020-09-03 10:53:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 10:53:16 --> CSRF cookie sent
+INFO - 2020-09-03 10:53:16 --> Input Class Initialized
+INFO - 2020-09-03 10:53:16 --> Config Class Initialized
+INFO - 2020-09-03 10:53:16 --> Hooks Class Initialized
+DEBUG - 2020-09-03 10:53:16 --> UTF-8 Support Enabled
+INFO - 2020-09-03 10:53:16 --> Language Class Initialized
+INFO - 2020-09-03 10:53:16 --> Utf8 Class Initialized
+INFO - 2020-09-03 10:53:16 --> URI Class Initialized
+ERROR - 2020-09-03 10:53:16 --> 404 Page Not Found: Seller/images
+INFO - 2020-09-03 10:53:16 --> Router Class Initialized
+INFO - 2020-09-03 10:53:16 --> Output Class Initialized
+INFO - 2020-09-03 10:53:16 --> Security Class Initialized
+DEBUG - 2020-09-03 10:53:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 10:53:16 --> CSRF cookie sent
+INFO - 2020-09-03 10:53:16 --> Hooks Class Initialized
+DEBUG - 2020-09-03 10:53:16 --> UTF-8 Support Enabled
+INFO - 2020-09-03 10:53:16 --> Utf8 Class Initialized
+INFO - 2020-09-03 10:53:16 --> URI Class Initialized
+INFO - 2020-09-03 10:53:16 --> Router Class Initialized
+INFO - 2020-09-03 10:53:16 --> Output Class Initialized
+INFO - 2020-09-03 10:53:16 --> Security Class Initialized
+DEBUG - 2020-09-03 10:53:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 10:53:16 --> CSRF cookie sent
+INFO - 2020-09-03 10:53:16 --> Input Class Initialized
+INFO - 2020-09-03 10:53:16 --> Language Class Initialized
+ERROR - 2020-09-03 10:53:16 --> 404 Page Not Found: Seller/images
+INFO - 2020-09-03 10:53:16 --> Input Class Initialized
+INFO - 2020-09-03 10:53:16 --> Language Class Initialized
+ERROR - 2020-09-03 10:53:16 --> 404 Page Not Found: Seller/images
+INFO - 2020-09-03 10:53:19 --> Config Class Initialized
+INFO - 2020-09-03 10:53:20 --> Hooks Class Initialized
+DEBUG - 2020-09-03 10:53:20 --> UTF-8 Support Enabled
+INFO - 2020-09-03 10:53:20 --> Utf8 Class Initialized
+INFO - 2020-09-03 10:53:20 --> URI Class Initialized
+INFO - 2020-09-03 10:53:20 --> Router Class Initialized
+INFO - 2020-09-03 10:53:20 --> Output Class Initialized
+INFO - 2020-09-03 10:53:20 --> Security Class Initialized
+DEBUG - 2020-09-03 10:53:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-09-03 10:53:20 --> CSRF cookie sent
+INFO - 2020-09-03 10:53:20 --> Input Class Initialized
+INFO - 2020-09-03 10:53:20 --> Language Class Initialized
+INFO - 2020-09-03 10:53:20 --> Loader Class Initialized
+INFO - 2020-09-03 10:53:20 --> Helper loaded: url_helper
+INFO - 2020-09-03 10:53:20 --> Helper loaded: siteconfig_helper
+INFO - 2020-09-03 10:53:20 --> Helper loaded: form_helper
+INFO - 2020-09-03 10:53:20 --> Language file loaded: language/english/english_lang.php
+INFO - 2020-09-03 10:53:20 --> Database Driver Class Initialized
+INFO - 2020-09-03 10:53:20 --> Controller Class Initialized
+INFO - 2020-09-03 10:53:20 --> Session: Class initialized using 'database' driver.
+INFO - 2020-09-03 10:53:20 --> Helper loaded: cookie_helper
+INFO - 2020-09-03 10:53:20 --> File loaded: C:\xampp\htdocs\HMS\application\views\frontend/dashboard-profile-setting.php
+INFO - 2020-09-03 10:53:20 --> Final output sent to browser
+DEBUG - 2020-09-03 10:53:20 --> Total execution time: 0.4527
