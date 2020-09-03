@@ -71,6 +71,64 @@ class User_model extends CI_Model
         }
     }
 
+    public function Login2($Username, $Password, $Remember){
+        if(!$this->session->userdata('userId')){
+            $query = $this->db->select('*')
+                ->from('user')
+                ->where('email', $Username)
+                ->where('password', $Password)
+                ->where('is_active', 1)
+                ->get();
+            $Count = $query->num_rows();
+            $Result = $query->row();
+            if($Count > 0){
+                $this->session->set_userdata('userId', $Result->id);
+                $this->session->set_userdata('userType', $Result->name);
+                $this->session->set_userdata('userFirst', $Result->email);
+
+                // Remove cookies first
+                $cookieEmail = array(
+                    'name' => 'emailUser',
+                    'value' => '',
+                    'expire' => -3600,
+                    'path' => '/',
+                );
+                $cookiePassword = array(
+                    'name' => 'passwordUser',
+                    'value' => '',
+                    'expire' => -3600,
+                    'path' => '/',
+                );
+                $this->input->set_cookie($cookieEmail);
+                $this->input->set_cookie($cookiePassword);
+                //Set New Cookies
+                if($Remember == true){
+                    $cookieEmail = array(
+                        'name' => 'emailUser',
+                        'value' => $Username,
+                        'expire' => 99 * 999 * 999,
+                        'path' => '/',
+                    );
+                    $cookiePassword = array(
+                        'name' => 'passwordUser',
+                        'value' => $Password,
+                        'expire' => 99 * 999 * 999,
+                        'path' => '/',
+                    );
+                    $this->input->set_cookie($cookieEmail);
+                    $this->input->set_cookie($cookiePassword);
+                }
+                return true;
+            }
+            else{
+                return false;
+            }
+        }
+        else{
+            return true;
+        }
+    }
+
     public function CheckOldPassword($Password){
         $query = $this->db->select('*')
             ->from('users_tb')

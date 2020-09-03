@@ -14,8 +14,8 @@ class Welcome extends Base_Controller
 
     public function index()
     {
-        $this->load->view('frontend/index');
+        $Data['UserId'] = $this->session->userdata('userId');
+        $Data['UserName'] = $this->session->userdata('userFirst');
+        $this->load->view('frontend/index', $Data);
     }
 }
-
-?>
