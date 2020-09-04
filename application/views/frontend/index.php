@@ -115,7 +115,7 @@
 										<div class="tg-ad tg-verifiedad">
 											<figure>
 												<span class="tg-themetag tg-featuretag">featured</span>
-												<a href="javascript:void(0);"><img style="height:160px;width:200px;" src="<?php echo assets_url('uploads/'. $fads->ad_picture); ?>" alt="image description"></a>
+												<a href="<?php echo base_url('BuySell/adDetails/'.$fads->id); ?>"><img style="height:160px;width:200px;" src="<?php echo assets_url('uploads/'. $fads->ad_picture); ?>" alt="image description"></a>
 											</figure>
 											<div class="tg-adcontent">
 												<ul class="tg-productcagegories">
@@ -172,7 +172,7 @@
 									<div class="tg-ad tg-verifiedad">
 										<figure>
 											<span class="tg-themetag tg-featuretag">featured</span>
-											<a href="javascript:void(0);"><img style="height:200px;width:200px;" src="<?php echo assets_url('uploads/'. $lads->ad_picture); ?>" alt="image description"></a>
+											<a href="<?php echo base_url('BuySell/adDetails/'.$lads->id); ?>"><img style="height:200px;width:200px;" src="<?php echo assets_url('uploads/'. $lads->ad_picture); ?>" alt="image description"></a>
 										</figure>
 										<div class="tg-adcontent">
 											<ul class="tg-productcagegories">
