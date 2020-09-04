@@ -55,6 +55,30 @@ class  Ads_model extends CI_Model
         }
     }
 
+    public function FeatureAdsRead(){
+        $sql = "SELECT A.id,A.product_name,A.product_price,A.ad_picture,B.title AS CategoryTitle,C.title AS CityTitle, D.name AS UserName, D.phone AS PhoneNumber FROM ads A INNER JOIN category AS B ON A.category_id = B.id INNER JOIN city C ON A.city_id = C.id INNER JOIN user D ON A.user_id = D.id  WHERE A.is_active = 1 ORDER BY A.created_at ASC LIMIT 8 ";
+        $result = $this->db->query($sql);
+        return $result->result();
+    }
+
+    public function LatestAdsRead(){
+        $sql = "SELECT A.id,A.product_name,A.product_price,A.ad_picture,B.title AS CategoryTitle,C.title AS CityTitle, D.name AS UserName, D.phone AS PhoneNumber FROM ads A INNER JOIN category AS B ON A.category_id = B.id INNER JOIN city C ON A.city_id = C.id INNER JOIN user D ON A.user_id = D.id  WHERE A.is_active = 1 ORDER BY A.created_at DESC LIMIT 6";
+        $result = $this->db->query($sql);
+        return $result->result();
+    }
+
+    public function AllAds(){
+        $sql = "SELECT A.id,A.product_name,A.product_price,A.ad_picture,B.title AS CategoryTitle,C.title AS CityTitle, D.name AS UserName, D.phone AS PhoneNumber FROM ads A INNER JOIN category AS B ON A.category_id = B.id INNER JOIN city C ON A.city_id = C.id INNER JOIN user D ON A.user_id = D.id  WHERE A.is_active = 1 ORDER BY A.created_at DESC";
+        $result = $this->db->query($sql);
+        return $result->result();
+    }
+
+    public function GetAds($id){
+        $sql = "SELECT A.id,A.product_name,A.product_price,A.ad_picture,A.ad_video,A.created_at,B.title AS CategoryTitle,C.title AS CityTitle, D.name AS UserName, D.phone AS PhoneNumber FROM ads A INNER JOIN category AS B ON A.category_id = B.id INNER JOIN city C ON A.city_id = C.id INNER JOIN user D ON A.user_id = D.id  WHERE A.is_active = 1 AND A.id = ? ORDER BY A.created_at DESC";
+        $result = $this->db->query($sql, array($id));
+        return $result->result();
+    }
+
     public function make_datatable($limit, $start){
         $sql = "SELECT * FROM category A WHERE A.is_active = 1 LIMIT ". $start . ", " . $limit;
         $result = $this->db->query($sql);

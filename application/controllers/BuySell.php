@@ -10,26 +10,45 @@ class BuySell extends Base_Controller
         parent::__construct();
         $this->load->library('session');
         $this->load->helper('cookie');
+        $this->load->model('Category_model', 'category');
+        $this->load->model('City_model', 'city');
+        $this->load->model('Ads_model', 'ads');
     }
 
     public function home()
     {
-        $this->load->view('frontend/index');
+        $Data['Category']   = $this->category->Read();
+        $Data['City']       = $this->city->Read();
+        $Data['FeatureAds'] = $this->ads->FeatureAdsRead();
+        $Data['LatestAds']  = $this->ads->LatestAdsRead();
+        $this->load->view('frontend/index', $Data);
     }
     public function adlisting()
     {
-        $this->load->view('frontend/adlistinggrid');
+        $Data['Category']   = $this->category->Read();
+        $Data['AllAds'] = $this->ads->AllAds();
+        $this->load->view('frontend/adlistinggrid', $Data);
     }
+
+    public function adDetails($id="")
+    {
+        $Data['AdsDetail'] = $this->ads->GetAds($id);
+        $this->load->view('frontend/addetail', $Data);
+    }
+
     public function aboutus()
     {
-        $this->load->view('frontend/aboutus');
+        $Data['Category']   = $this->category->Read();
+        $this->load->view('frontend/aboutus', $Data);
     }
     public function contactus()
     {
-        $this->load->view('frontend/contactus');
+        $Data['Category']   = $this->category->Read();
+        $this->load->view('frontend/contactus', $Data);
     }
     public function login_signup(){
-        $this->load->view('frontend/loginsignup');
+        $Data['Category']   = $this->category->Read();
+        $this->load->view('frontend/loginsignup', $Data);
     }
 }
 

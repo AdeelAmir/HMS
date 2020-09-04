@@ -110,19 +110,19 @@
                             <h1>World’s Largest Marketplace</h1>
                             <h2>Awesome Verified Ads!</h2>
                             <form class="tg-formtheme tg-formbannersearch">
-                                <fieldset>
+                                <!-- <fieldset>
                                     <div class="form-group tg-inputwithicon">
                                         <i class="icon-location"></i>
                                         <div class="tg-select">
                                             <select>
-                                                <option value="none">Select City</option>
-                                                <option value="none">Mobiles</option>
-                                                <option value="none">Electronics</option>
-                                                <option value="none">Vehicles</option>
-                                                <option value="none">Bikes</option>
-                                                <option value="none">Animals</option>
-                                                <option value="none">Furniture</option>
-                                                <option value="none">toys</option>
+                                                <option value="none" disabled selected>Select City</option>
+                                                <?php
+                                                    // foreach($City as $city){
+                                                ?>
+                                                        <option value="<?php echo $city->id; ?>"><?php echo $city->title; ?></option>
+                                                <?php
+                                                    // }
+                                                ?>
                                             </select>
                                         </div>
                                     </div>
@@ -131,18 +131,18 @@
                                         <div class="tg-select">
                                             <select>
                                                 <option value="none">Select Category</option>
-                                                <option value="none">Mobiles</option>
-                                                <option value="none">Electronics</option>
-                                                <option value="none">Vehicles</option>
-                                                <option value="none">Bikes</option>
-                                                <option value="none">Animals</option>
-                                                <option value="none">Furniture</option>
-                                                <option value="none">toys</option>
+                                                <?php
+                                                    // foreach($Category as $cat){
+                                                ?>
+                                                        <option value="<?php echo $cat->id; ?>"><?php echo $cat->title; ?></option>
+                                                <?php
+                                                    // }
+                                                ?>
                                             </select>
                                         </div>
                                     </div>
                                     <button class="tg-btn" type="button">Search Now</button>
-                                </fieldset>
+                                </fieldset> -->
                             </form>
                         </div>
                     </div>

@@ -135,9 +135,13 @@
 								</div>
 								<div class="tg-widgetcontent">
 									<ul>
-										<li><a href="javascript:void(0);">-  Mobile</a></li>
-										<li><a href="javascript:void(0);">-  Bike</a></li>
-										<li><a href="javascript:void(0);">-  Accessories</a></li>
+									<?php
+										foreach($Category as $cat){
+									?>
+											<li><a href="javascript:void(0);">-  <?= $cat->title; ?></a></li>
+									<?php
+										}
+									?>
 									</ul>
 								</div>
 							</div>

@@ -55,410 +55,42 @@
 						<div class="col-xs-12 col-md-2"></div>
 						<div class="col-xs-12 col-sm-7 col-md-8 col-lg-9">
 							<div id="tg-content" class="tg-content">
-								<div class="tg-contenthead">
-									<div class="tg-sortandview">
-										<div class="tg-sortby">
-											<strong>Sort by:</strong>
-											<div class="tg-select">
-												<select>
-													<option value="Most Recent">Most Recent</option>
-													<option value="Most Recent">Most Recent</option>
-													<option value="Most Recent">Most Recent</option>
-												</select>
-											</div>
-										</div>
-										<div class="tg-views">
-											<strong>View As Grid</strong>
-											<ul>
-												<li class="tg-active"><a href="javascript:void(0);"><i class="fa fa-th-large"></i></a></li>
-												<li><a href="javascript:void(0);"><i class="fa fa-reorder"></i></a></li>
-											</ul>
-										</div>
-										
-									</div>
-									<div class="tg-applyedfilters">
-										<ul>
-											<li class="alert alert-dismissable fade in">
-												<a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
-												<span>Manchester</span>
-											</li>
-											<li class="alert alert-dismissable fade in">
-												<a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
-												<span>$200 - $500</span>
-											</li>
-											<li class="alert alert-dismissable fade in">
-												<a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
-												<span>Brand New</span>
-											</li>
-											<li class="alert alert-dismissable fade in">
-												<a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
-												<span>Featured Ads</span>
-											</li>
-											<li class="alert alert-dismissable fade in">
-												<a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
-												<span>Area Unit: Sq. ft.</span>
-											</li>
-											<li class="alert alert-dismissable fade in">
-												<a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
-												<span>Sq. ft. 2500 - Sq. ft.5000</span>
-											</li>
-											<li class="alert alert-dismissable fade in">
-												<a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
-												<span>Rooms: 04</span>
-											</li>
-											<li class="alert alert-dismissable fade in">
-												<a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
-												<span>2014 - 2016</span>
-											</li>
-											<li class="alert alert-dismissable fade in">
-												<a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
-												<span>1500 - 3000</span>
-											</li>
-											<li><a class="tg-btncleall" href="javascript:void(0);">Clear All</a></li>
-										</ul>
-									</div>
-								</div>
 								<div class="tg-ads">
 									<div class="row">
-										<div class="col-xs-6 col-sm-12 col-md-6 col-lg-4 tg-verticaltop">
-											<div class="tg-ad tg-verifiedad">
-												<figure>
-													<span class="tg-themetag tg-featuretag">featured</span>
-													<a href="javascript:void(0);"><img src="<?php echo assets_url('assets_2/images/ads/img-01.jpg'); ?>" alt="image description"></a>
-													<span class="tg-photocount">See 18 Photos</span>
-												</figure>
-												<div class="tg-adcontent">
-													<ul class="tg-productcagegories">
-														<li><a href="javascript:void(0);">Mobiles</a></li>
-													</ul>
-													<div class="tg-adtitle">
-														<h3><a href="javascript:void(0);">Ei pad pro for sale</a></h3>
-													</div>
-													<time datetime="2017-06-06">Last Updated: 4 hours ago</time>
-													<div class="tg-adprice"><h4>$200</h4></div>
-													<address>44-46 abc Road, Manchester</address>
-													<div class="tg-phonelike">
-														<a class="tg-btnphone" href="javascript:void(0);">
-															<i class="icon-phone-handset"></i>
-															<span data-toggle="tooltip" data-placement="top" title="Show Phone No." data-last="0800 - 1234 - 562 - 6"><em>Show Phone No.</em></span>
-														</a>
-														<span class="tg-like tg-liked"><i class="fa fa-heart"></i></span>
-													</div>
-												</div>
-											</div>
-										</div>
-										<div class="col-xs-6 col-sm-12 col-md-6 col-lg-4 tg-verticaltop">
-											<div class="tg-ad tg-verifiedad">
-												<figure>
-													<span class="tg-themetag tg-featuretag">featured</span>
-													<a href="javascript:void(0);"><img src="<?php echo assets_url('assets_2/images/ads/img-02.jpg'); ?>" alt="image description"></a>
-													<span class="tg-photocount">See 18 Photos</span>
-												</figure>
-												<div class="tg-adcontent">
-													<ul class="tg-productcagegories">
-														<li><a href="javascript:void(0);">Vehicles</a></li>
-													</ul>
-													<div class="tg-adtitle">
-														<h3><a href="javascript:void(0);">Classic car in low price</a></h3>
-													</div>
-													<time datetime="2017-06-06">Last Updated: 4 hours ago</time>
-													<div class="tg-adprice"><h4>on call</h4></div>
-													<address>44-46 abc Road, Manchester</address>
-													<div class="tg-phonelike">
-														<a class="tg-btnphone" href="javascript:void(0);">
-															<i class="icon-phone-handset"></i>
-															<span data-toggle="tooltip" data-placement="top" title="Show Phone No." data-last="0800 - 1234 - 562 - 6"><em>Show Phone No.</em></span>
-														</a>
-														<span class="tg-like"><i class="fa fa-heart"></i></span>
+										
+										<?php
+											foreach($AllAds as $ads)
+											{
+										?>
+												<div class="col-xs-6 col-sm-12 col-md-6 col-lg-4 tg-verticaltop">
+													<div class="tg-ad tg-verifiedad">
+														<figure>
+															<span class="tg-themetag tg-featuretag">featured</span>
+															<a href="<?php echo base_url('BuySell/adDetails/'.$ads->id); ?>"><img style="height:200px;width:280px;" src="<?php echo assets_url('uploads/'.$ads->ad_picture); ?>" alt="image description"></a>
+														</figure>
+														<div class="tg-adcontent">
+															<ul class="tg-productcagegories">
+																<li><a href="javascript:void(0);"><?= $ads->CategoryTitle; ?></a></li>
+															</ul>
+															<div class="tg-adtitle">
+																<h3><a href="javascript:void(0);"><?= $ads->product_name; ?></a></h3>
+															</div>
+															<div class="tg-adprice"><h4><?= $ads->product_price; ?>rps</h4></div>
+															<div class="tg-phonelike">
+																<a class="tg-btnphone" href="javascript:void(0);">
+																	<i class="icon-phone-handset"></i>
+																	<span data-toggle="tooltip" data-placement="top" title="Show Phone No." data-last="<?= $ads->PhoneNumber; ?>"><em>Show Phone No.</em></span>
+																</a>
+																<span class="tg-like tg-liked"><i class="fa fa-heart"></i></span>
+															</div>
+														</div>
 													</div>
 												</div>
-											</div>
-										</div>
-										<div class="col-xs-6 col-sm-12 col-md-6 col-lg-4 tg-verticaltop">
-											<div class="tg-ad tg-verifiedad">
-												<figure>
-													<span class="tg-themetag tg-featuretag">featured</span>
-													<a href="javascript:void(0);"><img src="<?php echo assets_url('assets_2/images/ads/img-03.jpg'); ?>" alt="image description"></a>
-													<span class="tg-photocount">See 18 Photos</span>
-												</figure>
-												<div class="tg-adcontent">
-													<ul class="tg-productcagegories">
-														<li><a href="javascript:void(0);">Mobiles</a></li>
-													</ul>
-													<div class="tg-adtitle">
-														<h3><a href="javascript:void(0);">Set of 03 chairs</a></h3>
-													</div>
-													<time datetime="2017-06-06">Last Updated: 4 hours ago</time>
-													<div class="tg-adprice"><h4>$125</h4></div>
-													<address>44-46 abc Road, Manchester</address>
-													<div class="tg-phonelike">
-														<a class="tg-btnphone" href="javascript:void(0);">
-															<i class="icon-phone-handset"></i>
-															<span data-toggle="tooltip" data-placement="top" title="Show Phone No." data-last="0800 - 1234 - 562 - 6"><em>Show Phone No.</em></span>
-														</a>
-														<span class="tg-like tg-liked"><i class="fa fa-heart"></i></span>
-													</div>
-												</div>
-											</div>
-										</div>
-										<div class="col-xs-6 col-sm-12 col-md-6 col-lg-4 tg-verticaltop">
-											<div class="tg-ad tg-verifiedad">
-												<figure>
-													<span class="tg-themetag tg-featuretag">featured</span>
-													<a href="javascript:void(0);"><img src="<?php echo assets_url('assets_2/images/ads/img-04.jpg'); ?>" alt="image description"></a>
-													<span class="tg-photocount">See 18 Photos</span>
-												</figure>
-												<div class="tg-adcontent">
-													<ul class="tg-productcagegories">
-														<li><a href="javascript:void(0);">Furniture</a></li>
-													</ul>
-													<div class="tg-adtitle">
-														<h3><a href="javascript:void(0);">Smartphone for sale</a></h3>
-													</div>
-													<time datetime="2017-06-06">Last Updated: 4 hours ago</time>
-													<div class="tg-adprice"><h4>$160</h4></div>
-													<address>44-46 abc Road, Manchester</address>
-													<div class="tg-phonelike">
-														<a class="tg-btnphone" href="javascript:void(0);">
-															<i class="icon-phone-handset"></i>
-															<span data-toggle="tooltip" data-placement="top" title="Show Phone No." data-last="0800 - 1234 - 562 - 6"><em>Show Phone No.</em></span>
-														</a>
-														<span class="tg-like"><i class="fa fa-heart"></i></span>
-													</div>
-												</div>
-											</div>
-										</div>
-										<div class="col-xs-6 col-sm-12 col-md-6 col-lg-4 tg-verticaltop">
-											<div class="tg-ad tg-verifiedad">
-												<figure>
-													<span class="tg-themetag tg-featuretag">featured</span>
-													<a href="javascript:void(0);"><img src="<?php echo assets_url('assets_2/images/ads/img-05.jpg'); ?>" alt="image description"></a>
-													<span class="tg-photocount">See 18 Photos</span>
-												</figure>
-												<div class="tg-adcontent">
-													<ul class="tg-productcagegories">
-														<li><a href="javascript:void(0);">Furniture</a></li>
-													</ul>
-													<div class="tg-adtitle">
-														<h3><a href="javascript:void(0);">Set of chair for sale</a></h3>
-													</div>
-													<time datetime="2017-06-06">Last Updated: 4 hours ago</time>
-													<div class="tg-adprice"><h4>on call</h4></div>
-													<address>44-46 abc Road, Manchester</address>
-													<div class="tg-phonelike">
-														<a class="tg-btnphone" href="javascript:void(0);">
-															<i class="icon-phone-handset"></i>
-															<span data-toggle="tooltip" data-placement="top" title="Show Phone No." data-last="0800 - 1234 - 562 - 6"><em>Show Phone No.</em></span>
-														</a>
-														<span class="tg-like"><i class="fa fa-heart"></i></span>
-													</div>
-												</div>
-											</div>
-										</div>
-										<div class="col-xs-6 col-sm-12 col-md-6 col-lg-4 tg-verticaltop">
-											<div class="tg-ad tg-verifiedad">
-												<figure>
-													<span class="tg-themetag tg-featuretag">featured</span>
-													<a href="javascript:void(0);"><img src="<?php echo assets_url('assets_2/images/ads/img-06.jpg'); ?>" alt="image description"></a>
-													<span class="tg-photocount">See 18 Photos</span>
-												</figure>
-												<div class="tg-adcontent">
-													<ul class="tg-productcagegories">
-														<li><a href="javascript:void(0);">Animals</a></li>
-													</ul>
-													<div class="tg-adtitle">
-														<h3><a href="javascript:void(0);">Eye catching blue parrot for sale</a></h3>
-													</div>
-													<time datetime="2017-06-06">Last Updated: 4 hours ago</time>
-													<div class="tg-adprice"><h4>on call</h4></div>
-													<address>44-46 abc Road, Manchester</address>
-													<div class="tg-phonelike">
-														<a class="tg-btnphone" href="javascript:void(0);">
-															<i class="icon-phone-handset"></i>
-															<span data-toggle="tooltip" data-placement="top" title="Show Phone No." data-last="0800 - 1234 - 562 - 6"><em>Show Phone No.</em></span>
-														</a>
-														<span class="tg-like"><i class="fa fa-heart"></i></span>
-													</div>
-												</div>
-											</div>
-										</div>
-										<div class="col-xs-6 col-sm-12 col-md-6 col-lg-4 tg-verticaltop">
-											<div class="tg-ad tg-verifiedad">
-												<figure>
-													<span class="tg-themetag tg-featuretag">featured</span>
-													<a href="javascript:void(0);"><img src="<?php echo assets_url('assets_2/images/ads/img-07.jpg'); ?>" alt="image description"></a>
-													<span class="tg-photocount">See 18 Photos</span>
-												</figure>
-												<div class="tg-adcontent">
-													<ul class="tg-productcagegories">
-														<li><a href="javascript:void(0);">Toys</a></li>
-													</ul>
-													<div class="tg-adtitle">
-														<h3><a href="javascript:void(0);">Teddy for sale</a></h3>
-													</div>
-													<time datetime="2017-06-06">Last Updated: 4 hours ago</time>
-													<div class="tg-adprice"><h4>$30</h4></div>
-													<address>44-46 abc Road, Manchester</address>
-													<div class="tg-phonelike">
-														<a class="tg-btnphone" href="javascript:void(0);">
-															<i class="icon-phone-handset"></i>
-															<span data-toggle="tooltip" data-placement="top" title="Show Phone No." data-last="0800 - 1234 - 562 - 6"><em>Show Phone No.</em></span>
-														</a>
-														<span class="tg-like"><i class="fa fa-heart"></i></span>
-													</div>
-												</div>
-											</div>
-										</div>
-										<div class="col-xs-6 col-sm-12 col-md-6 col-lg-4 tg-verticaltop">
-											<div class="tg-ad tg-verifiedad">
-												<figure>
-													<span class="tg-themetag tg-featuretag">featured</span>
-													<a href="javascript:void(0);"><img src="<?php echo assets_url('assets_2/images/ads/img-08.jpg'); ?>" alt="image description"></a>
-													<span class="tg-photocount">See 18 Photos</span>
-												</figure>
-												<div class="tg-adcontent">
-													<ul class="tg-productcagegories">
-														<li><a href="javascript:void(0);">Electronics</a></li>
-													</ul>
-													<div class="tg-adtitle">
-														<h3><a href="javascript:void(0);">Hp dual core 2gb ram-slim laptop</a></h3>
-													</div>
-													<time datetime="2017-06-06">Last Updated: 4 hours ago</time>
-													<div class="tg-adprice"><h4>$260</h4></div>
-													<address>44-46 abc Road, Manchester</address>
-													<div class="tg-phonelike">
-														<a class="tg-btnphone" href="javascript:void(0);">
-															<i class="icon-phone-handset"></i>
-															<span data-toggle="tooltip" data-placement="top" title="Show Phone No." data-last="0800 - 1234 - 562 - 6"><em>Show Phone No.</em></span>
-														</a>
-														<span class="tg-like"><i class="fa fa-heart"></i></span>
-													</div>
-												</div>
-											</div>
-										</div>
-										<div class="col-xs-6 col-sm-12 col-md-6 col-lg-4 tg-verticaltop">
-											<div class="tg-ad tg-verifiedad">
-												<figure>
-													<span class="tg-themetag tg-featuretag">featured</span>
-													<a href="javascript:void(0);"><img src="<?php echo assets_url('assets_2/images/ads/img-15.jpg'); ?>" alt="image description"></a>
-													<span class="tg-photocount">See 18 Photos</span>
-												</figure>
-												<div class="tg-adcontent">
-													<ul class="tg-productcagegories">
-														<li><a href="javascript:void(0);">Furniture</a></li>
-													</ul>
-													<div class="tg-adtitle">
-														<h3><a href="javascript:void(0);">Set of chair for sale</a></h3>
-													</div>
-													<time datetime="2017-06-06">Last Updated: 4 hours ago</time>
-													<div class="tg-adprice"><h4>on call</h4></div>
-													<address>44-46 abc Road, Manchester</address>
-													<div class="tg-phonelike">
-														<a class="tg-btnphone" href="javascript:void(0);">
-															<i class="icon-phone-handset"></i>
-															<span data-toggle="tooltip" data-placement="top" title="Show Phone No." data-last="0800 - 1234 - 562 - 6"><em>Show Phone No.</em></span>
-														</a>
-														<span class="tg-like"><i class="fa fa-heart"></i></span>
-													</div>
-												</div>
-											</div>
-										</div>
-										<div class="col-xs-6 col-sm-12 col-md-6 col-lg-4 tg-verticaltop">
-											<div class="tg-ad tg-verifiedad">
-												<figure>
-													<span class="tg-themetag tg-featuretag">featured</span>
-													<a href="javascript:void(0);"><img src="<?php echo assets_url('assets_2/images/ads/img-16.jpg'); ?>" alt="image description"></a>
-													<span class="tg-photocount">See 18 Photos</span>
-												</figure>
-												<div class="tg-adcontent">
-													<ul class="tg-productcagegories">
-														<li><a href="javascript:void(0);">Animals</a></li>
-													</ul>
-													<div class="tg-adtitle">
-														<h3><a href="javascript:void(0);">Eye catching blue parrot for sale</a></h3>
-													</div>
-													<time datetime="2017-06-06">Last Updated: 4 hours ago</time>
-													<div class="tg-adprice"><h4>on call</h4></div>
-													<address>44-46 abc Road, Manchester</address>
-													<div class="tg-phonelike">
-														<a class="tg-btnphone" href="javascript:void(0);">
-															<i class="icon-phone-handset"></i>
-															<span data-toggle="tooltip" data-placement="top" title="Show Phone No." data-last="0800 - 1234 - 562 - 6"><em>Show Phone No.</em></span>
-														</a>
-														<span class="tg-like"><i class="fa fa-heart"></i></span>
-													</div>
-												</div>
-											</div>
-										</div>
-										<div class="col-xs-6 col-sm-12 col-md-6 col-lg-4 tg-verticaltop">
-											<div class="tg-ad tg-verifiedad">
-												<figure>
-													<span class="tg-themetag tg-featuretag">featured</span>
-													<a href="javascript:void(0);"><img src="<?php echo assets_url('assets_2/images/ads/img-17.jpg'); ?>" alt="image description"></a>
-													<span class="tg-photocount">See 18 Photos</span>
-												</figure>
-												<div class="tg-adcontent">
-													<ul class="tg-productcagegories">
-														<li><a href="javascript:void(0);">Toys</a></li>
-													</ul>
-													<div class="tg-adtitle">
-														<h3><a href="javascript:void(0);">Teddy for sale</a></h3>
-													</div>
-													<time datetime="2017-06-06">Last Updated: 4 hours ago</time>
-													<div class="tg-adprice"><h4>$30</h4></div>
-													<address>44-46 abc Road, Manchester</address>
-													<div class="tg-phonelike">
-														<a class="tg-btnphone" href="javascript:void(0);">
-															<i class="icon-phone-handset"></i>
-															<span data-toggle="tooltip" data-placement="top" title="Show Phone No." data-last="0800 - 1234 - 562 - 6"><em>Show Phone No.</em></span>
-														</a>
-														<span class="tg-like"><i class="fa fa-heart"></i></span>
-													</div>
-												</div>
-											</div>
-										</div>
-										<div class="col-xs-6 col-sm-12 col-md-6 col-lg-4 tg-verticaltop">
-											<div class="tg-ad tg-verifiedad">
-												<figure>
-													<span class="tg-themetag tg-featuretag">featured</span>
-													<a href="javascript:void(0);"><img src="<?php echo assets_url('assets_2/images/ads/img-18.jpg'); ?>" alt="image description"></a>
-													<span class="tg-photocount">See 18 Photos</span>
-												</figure>
-												<div class="tg-adcontent">
-													<ul class="tg-productcagegories">
-														<li><a href="javascript:void(0);">Electronics</a></li>
-													</ul>
-													<div class="tg-adtitle">
-														<h3><a href="javascript:void(0);">Hp dual core 2gb ram-slim laptop</a></h3>
-													</div>
-													<time datetime="2017-06-06">Last Updated: 4 hours ago</time>
-													<div class="tg-adprice"><h4>$260</h4></div>
-													<address>44-46 abc Road, Manchester</address>
-													<div class="tg-phonelike">
-														<a class="tg-btnphone" href="javascript:void(0);">
-															<i class="icon-phone-handset"></i>
-															<span data-toggle="tooltip" data-placement="top" title="Show Phone No." data-last="0800 - 1234 - 562 - 6"><em>Show Phone No.</em></span>
-														</a>
-														<span class="tg-like"><i class="fa fa-heart"></i></span>
-													</div>
-												</div>
-											</div>
-										</div>
+										<?php
+											}
+										?>
 									</div>
 								</div>
-								<nav class="tg-pagination">
-									<ul>
-										<li class="tg-prevpage"><a href="#"><i class="fa fa-angle-left"></i></a></li>
-										<li><a href="#">1</a></li>
-										<li><a href="#">2</a></li>
-										<li><a href="#">3</a></li>
-										<li><a href="#">4</a></li>
-										<li class="tg-active"><a href="#">5</a></li>
-										<li>...</li>
-										<li><a href="#">10</a></li>
-										<li class="tg-nextpage"><a href="#"><i class="fa fa-angle-right"></i></a></li>
-									</ul>
-								</nav>
 							</div>
 						</div>
 					</div>
@@ -486,9 +118,13 @@
 								</div>
 								<div class="tg-widgetcontent">
 									<ul>
-										<li><a href="javascript:void(0);">-  Mobile</a></li>
-										<li><a href="javascript:void(0);">-  Bike</a></li>
-										<li><a href="javascript:void(0);">-  Accessories</a></li>
+										<?php
+											foreach($Category as $cat){
+										?>
+												<li><a href="javascript:void(0);">-  <?= $cat->title; ?></a></li>
+										<?php
+											}
+										?>
 									</ul>
 								</div>
 							</div>
