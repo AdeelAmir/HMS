@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Sep 04, 2020 at 10:02 AM
+-- Generation Time: Sep 05, 2020 at 02:31 AM
 -- Server version: 10.4.13-MariaDB
 -- PHP Version: 7.4.8
 
@@ -108,7 +108,8 @@ CREATE TABLE `ci_sessions` (
 --
 
 INSERT INTO `ci_sessions` (`id`, `ip_address`, `timestamp`, `data`) VALUES
-('llsligurlbb2lcf5nrqh9c7iv28f1l0c', '::1', 1599206115, 0x5f5f63695f6c6173745f726567656e65726174657c693a313539393230363131343b);
+('llsligurlbb2lcf5nrqh9c7iv28f1l0c', '::1', 1599206115, 0x5f5f63695f6c6173745f726567656e65726174657c693a313539393230363131343b),
+('noeniqpkid13qe75bc8ohu8d5khlvnln', '::1', 1599265806, 0x5f5f63695f6c6173745f726567656e65726174657c693a313539393236353737303b);
 
 -- --------------------------------------------------------
 
